@@ -1,0 +1,568 @@
+Number of Nodes =  1000  , Number of Edges =  17079
+Diameter is  4
+	 For Rho =  0.1
+	 	 At Iteration =  1
+	 	 	 Took time  124.736000061 seconds And Primal residual =  60.8968390622  , Dual Residual =  397.159241866 , ePri = 141.528609408 , eDual= 47.3850952217
+	 	 	 Training Accuracy = 0.98048 , Testing Accuracy = 0.6703
+	 	 At Iteration =  2
+	 	 	 Took time  127.25 seconds And Primal residual =  59.6467514367  , Dual Residual =  170.340718523 , ePri = 142.718679906 , eDual= 69.8533632044
+	 	 	 Training Accuracy = 0.9878 , Testing Accuracy = 0.7424
+	 	 At Iteration =  3
+	 	 	 Took time  140.378999949 seconds And Primal residual =  39.6635146186  , Dual Residual =  158.431010305 , ePri = 142.76957617 , eDual= 82.0574470489
+	 	 	 Training Accuracy = 0.9826 , Testing Accuracy = 0.8189
+	 	 At Iteration =  4
+	 	 	 Took time  136.053999901 seconds And Primal residual =  24.8350368934  , Dual Residual =  139.059858959 , ePri = 143.274040353 , eDual= 84.9317097993
+	 	 	 Training Accuracy = 0.96156 , Testing Accuracy = 0.8604
+	 	 At Iteration =  5
+	 	 	 Took time  132.013999939 seconds And Primal residual =  19.6423286821  , Dual Residual =  103.664014762 , ePri = 144.263855991 , eDual= 84.8674605473
+	 	 	 Training Accuracy = 0.94816 , Testing Accuracy = 0.8769
+	 	 At Iteration =  6
+	 	 	 Took time  132.536999941 seconds And Primal residual =  15.4088487714  , Dual Residual =  77.6557130868 , ePri = 145.0762451 , eDual= 84.0579026873
+	 	 	 Training Accuracy = 0.9488 , Testing Accuracy = 0.8783
+	 	 ADMM finished in 796.299000025 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.9488
+	 	 	 Test Data Accuracy =  0.8783
+	 For Rho =  0.01
+	 	 At Iteration =  1
+	 	 	 Took time  130.697999954 seconds And Primal residual =  63.0561085372  , Dual Residual =  379.553002678 , ePri = 141.871729479 , eDual= 48.2664673879
+	 	 	 Training Accuracy = 0.98216 , Testing Accuracy = 0.67
+	 	 At Iteration =  2
+	 	 	 Took time  136.605000019 seconds And Primal residual =  61.6545021248  , Dual Residual =  160.463723388 , ePri = 143.068219416 , eDual= 71.5087438875
+	 	 	 Training Accuracy = 0.98916 , Testing Accuracy = 0.7432
+	 	 At Iteration =  3
+	 	 	 Took time  134.462000132 seconds And Primal residual =  43.6667857073  , Dual Residual =  146.508646969 , ePri = 143.127924624 , eDual= 85.1496008903
+	 	 	 Training Accuracy = 0.98396 , Testing Accuracy = 0.8166
+	 	 At Iteration =  4
+	 	 	 Took time  136.049999952 seconds And Primal residual =  26.8900761226  , Dual Residual =  130.77308988 , ePri = 143.490071487 , eDual= 88.6212662227
+	 	 	 Training Accuracy = 0.96028 , Testing Accuracy = 0.8599
+	 	 At Iteration =  5
+	 	 	 Took time  135.644000053 seconds And Primal residual =  21.671638839  , Dual Residual =  97.3065737358 , ePri = 144.441874793 , eDual= 89.1990692695
+	 	 	 Training Accuracy = 0.94452 , Testing Accuracy = 0.8766
+	 	 At Iteration =  6
+	 	 	 Took time  130.763999939 seconds And Primal residual =  17.1524892179  , Dual Residual =  73.0497930606 , ePri = 145.228577307 , eDual= 88.7275230103
+	 	 	 Training Accuracy = 0.94376 , Testing Accuracy = 0.8794
+	 	 ADMM finished in 807.843999863 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.94376
+	 	 	 Test Data Accuracy =  0.8794
+	 For Rho =  0.001
+	 	 At Iteration =  1
+	 	 	 Took time  129.179999828 seconds And Primal residual =  63.2818971457  , Dual Residual =  377.724770083 , ePri = 141.907583723 , eDual= 48.3586304153
+	 	 	 Training Accuracy = 0.98248 , Testing Accuracy = 0.6698
+	 	 At Iteration =  2
+	 	 	 Took time  130.704999924 seconds And Primal residual =  61.8629567261  , Dual Residual =  159.446164116 , ePri = 143.10445273 , eDual= 71.6813848709
+	 	 	 Training Accuracy = 0.98916 , Testing Accuracy = 0.7427
+	 	 At Iteration =  3
+	 	 	 Took time  129.977999926 seconds And Primal residual =  44.1038930531  , Dual Residual =  145.32619528 , ePri = 143.165330887 , eDual= 85.4753256142
+	 	 	 Training Accuracy = 0.98408 , Testing Accuracy = 0.8166
+	 	 At Iteration =  4
+	 	 	 Took time  131.204999924 seconds And Primal residual =  27.0946567902  , Dual Residual =  129.875026932 , ePri = 14Number of Nodes =  1000  , Number of Edges =  17079
+Diameter is  4
+	 For Rho =  0.1
+	 	 At Iteration =  1
+	 	 	 Took time  127.986000061 seconds And Primal residual =  60.8968390622  , Dual Residual =  397.159241866 , ePri = 141.528609408 , eDual= 47.3850952217
+	 	 	 Training Accuracy = 0.98048 , Testing Accuracy = 0.6703
+	 	 At Iteration =  2
+	 	 	 Took time  125.539000034 seconds And Primal residual =  59.6467514367  , Dual Residual =  170.340718523 , ePri = 142.718679906 , eDual= 69.8533632044
+	 	 	 Training Accuracy = 0.9878 , Testing Accuracy = 0.7424
+	 	 At Iteration =  3
+	 	 	 Took time  126.226000071 seconds And Primal residual =  39.6635146186  , Dual Residual =  158.431010305 , ePri = 142.76957617 , eDual= 82.0574470489
+	 	 	 Training Accuracy = 0.9826 , Testing Accuracy = 0.8189
+	 	 At Iteration =  4
+	 	 	 Took time  126.587999821 seconds And Primal residual =  24.8350368934  , Dual Residual =  139.059858959 , ePri = 143.274040353 , eDual= 84.9317097993
+	 	 	 Training Accuracy = 0.96156 , Testing Accuracy = 0.8604
+	 	 At Iteration =  5
+	 	 	 Took time  125.603999853 seconds And Primal residual =  19.6423286821  , Dual Residual =  103.664014762 , ePri = 144.263855991 , eDual= 84.8674605473
+	 	 	 Training Accuracy = 0.94816 , Testing Accuracy = 0.8769
+	 	 At Iteration =  6
+	 	 	 Took time  125.319999933 seconds And Primal residual =  15.4088487714  , Dual Residual =  77.6557130868 , ePri = 145.0762451 , eDual= 84.0579026873
+	 	 	 Training Accuracy = 0.9488 , Testing Accuracy = 0.8783
+	 	 ADMM finished in 760.250999928 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.9488
+	 	 	 Test Data Accuracy =  0.8783
+	 For Rho =  0.01
+	 	 At Iteration =  1
+	 	 	 Took time  123.379000187 seconds And Primal residual =  63.0561085372  , Dual Residual =  379.553002678 , ePri = 141.871729479 , eDual= 48.2664673879
+	 	 	 Training Accuracy = 0.98216 , Testing Accuracy = 0.67
+	 	 At Iteration =  2
+	 	 	 Took time  124.879999876 seconds And Primal residual =  61.6545021248  , Dual Residual =  160.463723388 , ePri = 143.068219416 , eDual= 71.5087438875
+	 	 	 Training Accuracy = 0.98916 , Testing Accuracy = 0.7432
+	 	 At Iteration =  3
+	 	 	 Took time  125.209000111 seconds And Primal residual =  43.6667857073  , Dual Residual =  146.508646969 , ePri = 143.127924624 , eDual= 85.1496008903
+	 	 	 Training Accuracy = 0.98396 , Testing Accuracy = 0.8166
+	 	 At Iteration =  4
+	 	 	 Took time  125.287999868 seconds And Primal residual =  26.8900761226  , Dual Residual =  130.77308988 , ePri = 143.490071487 , eDual= 88.6212662227
+	 	 	 Training Accuracy = 0.96028 , Testing Accuracy = 0.8599
+	 	 At Iteration =  5
+	 	 	 Took time  126.461999893 seconds And Primal residual =  21.671638839  , Dual Residual =  97.3065737358 , ePri = 144.441874793 , eDual= 89.1990692695
+	 	 	 Training Accuracy = 0.94452 , Testing Accuracy = 0.8766
+	 	 At Iteration =  6
+	 	 	 Took time  124.437999964 seconds And Primal residual =  17.1524892179  , Dual Residual =  73.0497930606 , ePri = 145.228577307 , eDual= 88.7275230103
+	 	 	 Training Accuracy = 0.94376 , Testing Accuracy = 0.8794
+	 	 ADMM finished in 752.926000118 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.94376
+	 	 	 Test Data Accuracy =  0.8794
+	 For Rho =  0.001
+	 	 At Iteration =  1
+	 	 	 Took time  139.313999891 seconds And Primal residual =  63.2818971457  , Dual Residual =  377.724770083 , ePri = 141.907583723 , eDual= 48.3586304153
+	 	 	 Training Accuracy = 0.98248 , Testing Accuracy = 0.6698
+	 	 At Iteration =  2
+	 	 	 Took time  129.039999962 seconds And Primal residual =  61.8629567261  , Dual Residual =  159.446164116 , ePri = 143.10445273 , eDual= 71.6813848709
+	 	 	 Training Accuracy = 0.98916 , Testing Accuracy = 0.7427
+	 	 At Iteration =  3
+	 	 	 Took time  129.06099987 seconds And Primal residual =  44.1038930531  , Dual Residual =  145.32619528 , ePri = 143.165330887 , eDual= 85.4753256142
+	 	 	 Training Accuracy = 0.98408 , Testing Accuracy = 0.8166
+	 	 At Iteration =  4
+	 	 	 Took time  129.951999903 seconds And Primal residual =  27.0946567902  , Dual Residual =  129.875026932 , ePri = 143.512238478 , eDual= 89.002578215
+	 	 	 Training Accuracy = 0.96008 , Testing Accuracy = 0.8595
+	 	 At Iteration =  5
+	 	 	 Took time  128.038000107 seconds And Primal residual =  21.8802224325  , Dual Residual =  96.6103040837 , ePri = 144.459015305 , eDual= 89.6502506957
+	 	 	 Training Accuracy = 0.94412 , Testing Accuracy = 0.8763
+	 	 At Iteration =  6
+	 	 	 Took time  127.825000048 seconds And Primal residual =  17.3387226493  , Dual Residual =  72.5638609495 , ePri = 145.242591153 , eDual= 89.2239624628
+	 	 	 Training Accuracy = 0.9432 , Testing Accuracy = 0.8791
+	 	 ADMM finished in 786.595000029 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.9432
+	 	 	 Test Data Accuracy =  0.8791
+	 For Rho =  0.0001
+	 	 At Iteration =  1
+	 	 	 Took time  127.15199995 seconds And Primal residual =  63.3045559324  , Dual Residual =  377.541105602 , ePri = 141.911181775 , eDual= 48.3678786643
+	 	 	 Training Accuracy = 0.98248 , Testing Accuracy = 0.6698
+	 	 At Iteration =  2
+	 	 	 Took time  128.032999992 seconds And Primal residual =  61.8838746852  , Dual Residual =  159.344114093 , ePri = 143.10808783 , eDual= 71.6987085411
+	 	 	 Training Accuracy = 0.98916 , Testing Accuracy = 0.7429
+	 	 At Iteration =  3
+	 	 	 Took time  138.024000168 seconds And Primal residual =  44.1479378458  , Dual Residual =  145.208203813 , ePri = 143.169091847 , eDual= 85.5080589893
+	 	 	 Training Accuracy = 0.98408 , Testing Accuracy = 0.8165
+	 	 At Iteration =  4
+	 	 	 Took time  134.272000074 seconds And Primal residual =  27.1151318726  , Dual Residual =  129.784479463 , ePri = 143.514468183 , eDual= 89.0408665088
+	 	 	 Training Accuracy = 0.96012 , Testing Accuracy = 0.8593
+	 	 At Iteration =  5
+	 	 	 Took time  131.705000162 seconds And Primal residual =  21.9011703698  , Dual Residual =  96.5400446256 , ePri = 144.460722172 , eDual= 89.6955770629
+	 	 	 Training Accuracy = 0.94412 , Testing Accuracy = 0.8761
+	 	 At Iteration =  6
+	 	 	 Took time  132.112999916 seconds And Primal residual =  17.3575117064  , Dual Residual =  72.5150734685 , ePri = 145.24398266 , eDual= 89.2739350378
+	 	 	 Training Accuracy = 0.94312 , Testing Accuracy = 0.8791
+	 	 ADMM finished in 794.903000116 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.94312
+	 	 	 Test Data Accuracy =  0.8791
+	 For Rho =  1e-05
+	 	 At Iteration =  1
+	 	 	 Took time  130.778999805 seconds And Primal residual =  63.3068244458  , Dual Residual =  377.522739085 , ePri = 141.911541967 , eDual= 48.3688045153
+	 	 	 Training Accuracy = 0.98248 , Testing Accuracy = 0.6698
+	 	 At Iteration =  2
+	 	 	 Took time  135.428000212 seconds And Primal residual =  61.8859677027  , Dual Residual =  159.333911675 , ePri = 143.108451618 , eDual= 71.7004422976
+	 	 	 Training Accuracy = 0.98916 , Testing Accuracy = 0.7429
+	 	 At Iteration =  3
+	 	 	 Took time  131.531999826 seconds And Primal residual =  44.1523466069  , Dual Residual =  145.196399591 , ePri = 143.169468416 , eDual= 85.5113355632
+	 	 	 Training Accuracy = 0.98408 , Testing Accuracy = 0.8165
+	 	 At Iteration =  4
+	 	 	 Took time  130.91899991 seconds And Primal residual =  27.1171810048  , Dual Residual =  129.775437766 , ePri = 143.514691598 , eDual= 89.0446977213
+	 	 	 Training Accuracy = 0.96012 , Testing Accuracy = 0.8593
+	 	 At Iteration =  5
+	 	 	 Took time  131.720999956 seconds And Primal residual =  21.9032680298  , Dual Residual =  96.5330093333 , ePri = 144.460893069 , eDual= 89.7001126018
+	 	 	 Training Accuracy = 0.94412 , Testing Accuracy = 0.8761
+	 	 At Iteration =  6
+	 	 	 Took time  132.470000029 seconds And Primal residual =  17.3593926085  , Dual Residual =  72.510190107 , ePri = 145.244121806 , eDual= 89.278935811
+	 	 	 Training Accuracy = 0.94308 , Testing Accuracy = 0.8791
+	 	 ADMM finished in 796.541999817 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.94308
+	 	 	 Test Data Accuracy =  0.8791
+Number of Nodes =  1000  , Number of Edges =  17079
+Diameter is  4
+	 For Rho =  1.0
+	 	 At Iteration =  1
+	 	 	 Took time  62.2990000248 seconds And Primal residual =  45.2180955661  , Dual Residual =  518.136432313 , ePri = 13.9036441082 , eDual= 4.09713229175
+	 	 	 Training Accuracy = 0.96892 , Testing Accuracy = 0.6666
+	 	 At Iteration =  2
+	 	 	 Took time  64.5089998245 seconds And Primal residual =  42.9220232816  , Dual Residual =  255.306325082 , ePri = 14.0144188724 , eDual= 5.71585048835
+	 	 	 Training Accuracy = 0.97936 , Testing Accuracy = 0.7422
+	 	 At Iteration =  3
+	 	 	 Took time  65.0800001621 seconds And Primal residual =  17.6424398433  , Dual Residual =  247.922887604 , ePri = 14.024238219 , eDual= 6.03019221982
+	 	 	 Training Accuracy = 0.97784 , Testing Accuracy = 0.8264
+	 	 At Iteration =  4
+	 	 	 Took time  70.6890001297 seconds And Primal residual =  10.8240582566  , Dual Residual =  194.362851039 , ePri = 14.1365519333 , eDual= 5.93403957741
+	 	 	 Training Accuracy = 0.97552 , Testing Accuracy = 0.8619
+	 	 At Iteration =  5
+	 	 	 Took time  67.9429998398 seconds And Primal residual =  8.47036725072  , Dual Residual =  152.579123837 , ePri = 14.2426086739 , eDual= 5.83839803034
+	 	 	 Training Accuracy = 0.97696 , Testing Accuracy = 0.8659
+	 	 At Iteration =  6
+	 	 	 Took time  73.3079998493 seconds And Primal residual =  7.1689350562  , Dual Residual =  119.17937185 , ePri = 14.3265747307 , eDual= 5.77524811945
+	 	 	 Training Accuracy = 0.97828 , Testing Accuracy = 0.8663
+	 	 At Iteration =  7
+	 	 	 Took time  72.620000124 seconds And Primal residual =  6.24437166963  , Dual Residual =  92.167210502 , ePri = 14.3906490178 , eDual= 5.73606642231
+	 	 	 Training Accuracy = 0.97868 , Testing Accuracy = 0.8664
+	 	 At Iteration =  8
+	 	 	 Took time  79.2779998779 seconds And Primal residual =  5.3887891215  , Dual Residual =  71.3938499016 , ePri = 14.4388805373 , eDual= 5.71088628086
+	 	 	 Training Accuracy = 0.97872 , Testing Accuracy = 0.8666
+	 	 At Iteration =  9
+	 	 	 Took time  70.138999939 seconds And Primal residual =  4.59487664908  , Dual Residual =  55.5742704811 , ePri = 14.4748242911 , eDual= 5.69317033726
+	 	 	 Training Accuracy = 0.9782 , Testing Accuracy = 0.8686
+	 	 At Iteration =  10
+	 	 	 Took time  71.8050000668 seconds And Primal residual =  3.87490698843  , Dual Residual =  43.5296295921 , ePri = 14.5013607312 , eDual= 5.67944736263
+	 	 	 Training Accuracy = 0.97792 , Testing Accuracy = 0.8691
+	 	 At Iteration =  11
+	 	 	 Took time  67.1800000668 seconds And Primal residual =  3.23894871079  , Dual Residual =  34.3424676236 , ePri = 14.5207501443 , eDual= 5.66810352184
+	 	 	 Training Accuracy = 0.9774 , Testing Accuracy = 0.8702
+	 	 At Iteration =  12
+	 	 	 Took time  70.7780001163 seconds And Primal residual =  2.68659022196  , Dual Residual =  27.2889487741 , ePri = 14.5347307662 , eDual= 5.65841965143
+	 	 	 Training Accuracy = 0.9764 , Testing Accuracy = 0.8701
+	 	 At Iteration =  13
+	 	 	 Took time  68.0130000114 seconds And Primal residual =  2.22577797285  , Dual Residual =  21.795217112 , ePri = 14.5446117511 , eDual= 5.6500950897
+	 	 	 Training Accuracy = 0.97572 , Testing Accuracy = 0.8714
+	 	 At Iteration =  14
+	 	 	 Took time  69.9570000172 seconds And Primal residual =  1.83681204259  , Dual Residual =  17.453059556 , ePri = 14.5514547421 , eDual= 5.64298959793
+	 	 	 Training Accuracy = 0.97508 , Testing Accuracy = 0.8725
+	 	 At Iteration =  15
+	 	 	 Took time  69.0869998932 seconds And Primal residual =  1.5146820046  , Dual Residual =  14.0032910187 , ePri = 14.5560477691 , eDual= 5.63702612071
+	 	 	 Training Accuracy = 0.97468 , Testing Accuracy = 0.8729
+	 	 At Iteration =  16
+	 	 	 Took time  66.8589999676 seconds And Primal residual =  1.25463068575  , Dual Residual =  11.209088779 , ePri = 14.55896332 , eDual= 5.63212385357
+	 	 	 Training Accuracy = 0.97388 , Testing Accuracy = 0.8731
+	 	 At Iteration =  17
+	 	 	 Took time  65.9130001068 seconds And Primal residual =  1.04056312907  , Dual Residual =  8.92783535214 , ePri = 14.5606583514 , eDual= 5.62818780525
+	 	 	 Training Accuracy = 0.97364 , Testing Accuracy = 0.8734
+	 	 At Iteration =  18
+	 	 	 Took time  67.7289998531 seconds And Primal residual =  0.863205313853  , Dual Residual =  7.10956223299 , ePri = 14.561474665 , eDual= 5.62511064466
+	 	 	 Training Accuracy = 0.9732 , Testing Accuracy = 0.8734
+	 	 At Iteration =  19
+	 	 	 Took time  65.4789998531 seconds And Primal residual =  0.717759516409  , Dual Residual =  5.67339865683 , ePri = 14.5616594493 , eDual= 5.62277933164
+	 	 	 Training Accuracy = 0.97312 , Testing Accuracy = 0.8729
+	 	 At Iteration =  20
+	 	 	 Took time  66.9670000076 seconds And Primal residual =  0.596415672902  , Dual Residual =  4.55517286108 , ePri = 14.5614043037 , eDual= 5.62107658948
+	 	 	 Training Accuracy = 0.97292 , Testing Accuracy = 0.8725
+	 	 ADMM finished in 1383.49799991 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.97292
+	 	 	 Test Data Accuracy =  0.8725
+	 For Rho =  0.1
+	 	 At Iteration =  1
+	 	 	 Took time  77.2159998417 seconds And Primal residual =  60.8968390622  , Dual Residual =  397.159241866 , ePri = 14.1528609408 , eDual= 4.73850952217
+	 	 	 Training Accuracy = 0.98048 , Testing Accuracy = 0.6703
+	 	 At Iteration =  2
+	 	 	 Took time  96.5830001831 seconds And Primal residual =  59.6467514367  , Dual Residual =  170.340718523 , ePri = 14.2718679906 , eDual= 6.98533632044
+	 	 	 Training Accuracy = 0.9878 , Testing Accuracy = 0.7424
+	 	 At Iteration =  3
+	 	 	 Took time  67.8329999447 seconds And Primal residual =  39.6635146186  , Dual Residual =  158.431010305 , ePri = 14.276957617 , eDual= 8.20574470489
+	 	 	 Training Accuracy = 0.9826 , Testing Accuracy = 0.8189
+	 	 At Iteration =  4
+	 	 	 Took time  61.6319999695 seconds And Primal residual =  24.8350368934  , Dual Residual =  139.059858959 , ePri = 14.3274040353 , eDual= 8.49317097993
+	 	 	 Training Accuracy = 0.96156 , Testing Accuracy = 0.8604
+	 	 At Iteration =  5
+	 	 	 Took time  60.7049999237 seconds And Primal residual =  19.6423286821  , Dual Residual =  103.664014762 , ePri = 14.4263855991 , eDual= 8.48674605473
+	 	 	 Training Accuracy = 0.94816 , Testing Accuracy = 0.8769
+	 	 At Iteration =  6
+	 	 	 Took time  60.8999998569 seconds And Primal residual =  15.4088487714  , Dual Residual =  77.6557130868 , ePri = 14.50762451 , eDual= 8.40579026873
+	 	 	 Training Accuracy = 0.9488 , Testing Accuracy = 0.8783
+	 	 At Iteration =  7
+	 	 	 Took time  60.9130001068 seconds And Primal residual =  11.9860753596  , Dual Residual =  58.6245422016 , ePri = 14.5703223841 , eDual= 8.33453880476
+	 	 	 Training Accuracy = 0.95556 , Testing Accuracy = 0.8794
+	 	 At Iteration =  8
+	 	 	 Took time  60.7060000896 seconds And Primal residual =  9.46664685712  , Dual Residual =  44.114795596 , ePri = 14.6160582817 , eDual= 8.28454805982
+	 	 	 Training Accuracy = 0.96048 , Testing Accuracy = 0.8772
+	 	 At Iteration =  9
+	 	 	 Took time  60.4739999771 seconds And Primal residual =  7.67744520078  , Dual Residual =  32.6199738991 , ePri = 14.6464968836 , eDual= 8.25215367387
+	 	 	 Training Accuracy = 0.96448 , Testing Accuracy = 0.8749
+	 	 At Iteration =  10
+	 	 	 Took time  60.5160000324 seconds And Primal residual =  6.3167141367  , Dual Residual =  23.714418886 , ePri = 14.6639201371 , eDual= 8.23208937682
+	 	 	 Training Accuracy = 0.96712 , Testing Accuracy = 0.8738
+	 	 At Iteration =  11
+	 	 	 Took time  60.2870001793 seconds And Primal residual =  5.22536814395  , Dual Residual =  17.2139932376 , ePri = 14.6708017394 , eDual= 8.22037935613
+	 	 	 Training Accuracy = 0.96828 , Testing Accuracy = 0.8726
+	 	 At Iteration =  12
+	 	 	 Took time  60.3190000057 seconds And Primal residual =  4.28803230021  , Dual Residual =  13.1254012939 , ePri = 14.6696684394 , eDual= 8.21428174886
+	 	 	 Training Accuracy = 0.96868 , Testing Accuracy = 0.8719
+	 	 At Iteration =  13
+	 	 	 Took time  60.2479999065 seconds And Primal residual =  3.46832125453  , Dual Residual =  11.2738573123 , ePri = 14.6627792867 , eDual= 8.21193092953
+	 	 	 Training Accuracy = 0.96896 , Testing Accuracy = 0.8709
+	 	 At Iteration =  14
+	 	 	 Took time  60.3140001297 seconds And Primal residual =  2.76451038342  , Dual Residual =  10.8034052894 , ePri = 14.6520678958 , eDual= 8.21208987927
+	 	 	 Training Accuracy = 0.96916 , Testing Accuracy = 0.8712
+	 	 At Iteration =  15
+	 	 	 Took time  59.9769999981 seconds And Primal residual =  2.16877110905  , Dual Residual =  10.8127984884 , ePri = 14.6391404388 , eDual= 8.21360195997
+	 	 	 Training Accuracy = 0.96928 , Testing Accuracy = 0.8713
+	 	 At Iteration =  16
+	 	 	 Took time  60.4820001125 seconds And Primal residual =  1.68475723006  , Dual Residual =  10.7526889798 , ePri = 14.6252873797 , eDual= 8.21585535907
+	 	 	 Training Accuracy = 0.96956 , Testing Accuracy = 0.8702
+	 	 At Iteration =  17
+	 	 	 Took time  60.0729999542 seconds And Primal residual =  1.32178122252  , Dual Residual =  10.4285447979 , ePri = 14.611455713 , eDual= 8.21851967769
+	 	 	 Training Accuracy = 0.9698 , Testing Accuracy = 0.8698
+	 	 At Iteration =  18
+	 	 	 Took time  60.0329999924 seconds And Primal residual =  1.06859311836  , Dual Residual =  9.83601641279 , ePri = 14.5983306548 , eDual= 8.22142544472
+	 	 	 Training Accuracy = 0.96984 , Testing Accuracy = 0.8697
+	 	 At Iteration =  19
+	 	 	 Took time  60.2049999237 seconds And Primal residual =  0.913886825663  , Dual Residual =  9.04384955055 , ePri = 14.5863589051 , eDual= 8.22455049524
+	 	 	 Training Accuracy = 0.96964 , Testing Accuracy = 0.8697
+	 	 At Iteration =  20
+	 	 	 Took time  60.1419999599 seconds And Primal residual =  0.824824143288  , Dual Residual =  8.13351088723 , ePri = 14.5758042241 , eDual= 8.2278836323
+	 	 	 Training Accuracy = 0.96968 , Testing Accuracy = 0.8698
+	 	 ADMM finished in 1276.92799997 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.96968
+	 	 	 Test Data Accuracy =  0.8698
+	 For Rho =  0.01
+	 	 At Iteration =  1
+	 	 	 Took time  59.6590001583 seconds And Primal residual =  63.0561085372  , Dual Residual =  379.553002678 , ePri = 14.1871729479 , eDual= 4.82664673879
+	 	 	 Training Accuracy = 0.98216 , Testing Accuracy = 0.67
+	 	 At Iteration =  2
+	 	 	 Took time  60.4769999981 seconds And Primal residual =  61.6545021248  , Dual Residual =  160.463723388 , ePri = 14.3068219416 , eDual= 7.15087438875
+	 	 	 Training Accuracy = 0.98916 , Testing Accuracy = 0.7432
+	 	 At Iteration =  3
+	 	 	 Took time  60.6800000668 seconds And Primal residual =  43.6667857073  , Dual Residual =  146.508646969 , ePri = 14.3127924624 , eDual= 8.51496008903
+	 	 	 Training Accuracy = 0.98396 , Testing Accuracy = 0.8166
+	 	 At Iteration =  4
+	 	 	 Took time  60.9919998646 seconds And Primal residual =  26.8900761226  , Dual Residual =  130.77308988 , ePri = 14.3490071487 , eDual= 8.86212662227
+	 	 	 Training Accuracy = 0.96028 , Testing Accuracy = 0.8599
+	 	 At Iteration =  5
+	 	 	 Took time  61.4230000973 seconds And Primal residual =  21.671638839  , Dual Residual =  97.3065737358 , ePri = 14.4441874793 , eDual= 8.91990692695
+	 	 	 Training Accuracy = 0.94452 , Testing Accuracy = 0.8766
+	 	 At Iteration =  6
+	 	 	 Took time  60.3639998436 seconds And Primal residual =  17.1524892179  , Dual Residual =  73.0497930606 , ePri = 14.5228577307 , eDual= 8.87275230103
+	 	 	 Training Accuracy = 0.94376 , Testing Accuracy = 0.8794
+	 	 At Iteration =  7
+	 	 	 Took time  60.3940000534 seconds And Primal residual =  13.3625009798  , Dual Residual =  54.9973353835 , ePri = 14.5833644237 , eDual= 8.81584214266
+	 	 	 Training Accuracy = 0.95036 , Testing Accuracy = 0.8785
+	 	 At Iteration =  8
+	 	 	 Took time  60.3619999886 seconds And Primal residual =  10.5225420164  , Dual Residual =  41.374474266 , ePri = 14.6276127651 , eDual= 8.77426765391
+	 	 	 Training Accuracy = 0.95636 , Testing Accuracy = 0.8768
+	 	 At Iteration =  9
+	 	 	 Took time  60.5700001717 seconds And Primal residual =  8.43414807027  , Dual Residual =  30.7396968166 , ePri = 14.6570181488 , eDual= 8.74562861603
+	 	 	 Training Accuracy = 0.96088 , Testing Accuracy = 0.8755
+	 	 At Iteration =  10
+	 	 	 Took time  60.4460000992 seconds And Primal residual =  6.85810145386  , Dual Residual =  22.6605333663 , ePri = 14.6736722156 , eDual= 8.72708520655
+	 	 	 Training Accuracy = 0.965 , Testing Accuracy = 0.8737
+	 	 At Iteration =  11
+	 	 	 Took time  60.375 seconds And Primal residual =  5.6151327967  , Dual Residual =  16.8679800161 , ePri = 14.6798100542 , eDual= 8.71569839929
+	 	 	 Training Accuracy = 0.96612 , Testing Accuracy = 0.8715
+	 	 At Iteration =  12
+	 	 	 Took time  60.7409999371 seconds And Primal residual =  4.59054204779  , Dual Residual =  13.2356379064 , ePri = 14.6778210962 , eDual= 8.71004621084
+	 	 	 Training Accuracy = 0.96688 , Testing Accuracy = 0.8712
+	 	 At Iteration =  13
+	 	 	 Took time  60.5460000038 seconds And Primal residual =  3.71467972722  , Dual Residual =  11.5236749347 , ePri = 14.6698940525 , eDual= 8.70856696973
+	 	 	 Training Accuracy = 0.96732 , Testing Accuracy = 0.8702
+	 	 At Iteration =  14
+	 	 	 Took time  60.6900000572 seconds And Primal residual =  2.96203717387  , Dual Residual =  11.0549434093 , ePri = 14.6579828023 , eDual= 8.70975417916
+	 	 	 Training Accuracy = 0.96808 , Testing Accuracy = 0.8704
+	 	 At Iteration =  15
+	 	 	 Took time  60.4639999866 seconds And Primal residual =  2.33074600439  , Dual Residual =  11.0225480309 , ePri = 14.6437458759 , eDual= 8.71273767637
+	 	 	 Training Accuracy = 0.96848 , Testing Accuracy = 0.8709
+	 	 At Iteration =  16
+	 	 	 Took time  65.1990001202 seconds And Primal residual =  1.80978960454  , Dual Residual =  10.9346954482 , ePri = 14.6285458738 , eDual= 8.71661956368
+	 	 	 Training Accuracy = 0.96856 , Testing Accuracy = 0.87
+	 	 At Iteration =  17
+	 	 	 Took time  60.5380001068 seconds And Primal residual =  1.41952448649  , Dual Residual =  10.5864821224 , ePri = 14.6134134796 , eDual= 8.72089963327
+	 	 	 Training Accuracy = 0.96896 , Testing Accuracy = 0.8693
+	 	 At Iteration =  18
+	 	 	 Took time  60.4230000973 seconds And Primal residual =  1.15053092482  , Dual Residual =  9.96628356038 , ePri = 14.5990932684 , eDual= 8.72530404034
+	 	 	 Training Accuracy = 0.96924 , Testing Accuracy = 0.8689
+	 	 At Iteration =  19
+	 	 	 Took time  60.7619998455 seconds And Primal residual =  0.987742852526  , Dual Residual =  9.1385821483 , ePri = 14.586086947 , eDual= 8.72973507156
+	 	 	 Training Accuracy = 0.9694 , Testing Accuracy = 0.8691
+	 	 At Iteration =  20
+	 	 	 Took time  61.131000042 seconds And Primal residual =  0.895372907761  , Dual Residual =  8.18633088185 , ePri = 14.5746814237 , eDual= 8.73414275894
+	 	 	 Training Accuracy = 0.96936 , Testing Accuracy = 0.8697
+	 	 ADMM finished in 1223.95600009 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.96936
+	 	 	 Test Data Accuracy =  0.8697
+	 For Rho =  0.001
+	 	 At Iteration =  1
+	 	 	 Took time  59.7660000324 seconds And Primal residual =  63.2818971457  , Dual Residual =  377.724770083 , ePri = 14.1907583723 , eDual= 4.83586304153
+	 	 	 Training Accuracy = 0.98248 , Testing Accuracy = 0.6698
+	 	 At Iteration =  2
+	 	 	 Took time  61.0440001488 seconds And Primal residual =  61.8629567261  , Dual Residual =  159.446164116 , ePri = 14.310445273 , eDual= 7.16813848709
+	 	 	 Training Accuracy = 0.98916 , Testing Accuracy = 0.7427
+	 	 At Iteration =  3
+	 	 	 Took time  61.1939997673 seconds And Primal residual =  44.1038930531  , Dual Residual =  145.32619528 , ePri = 14.3165330887 , eDual= 8.54753256142
+	 	 	 Training Accuracy = 0.98408 , Testing Accuracy = 0.8166
+	 	 At Iteration =  4
+	 	 	 Took time  60.4590001106 seconds And Primal residual =  27.0946567902  , Dual Residual =  129.875026932 , ePri = 14.3512238478 , eDual= 8.9002578215
+	 	 	 Training Accuracy = 0.96008 , Testing Accuracy = 0.8595
+	 	 At Iteration =  5
+	 	 	 Took time  61.0479998589 seconds And Primal residual =  21.8802224325  , Dual Residual =  96.6103040837 , ePri = 14.4459015305 , eDual= 8.96502506957
+	 	 	 Training Accuracy = 0.94412 , Testing Accuracy = 0.8763
+	 	 At Iteration =  6
+	 	 	 Took time  61.4470000267 seconds And Primal residual =  17.3387226493  , Dual Residual =  72.5638609495 , ePri = 14.5242591153 , eDual= 8.92239624628
+	 	 	 Training Accuracy = 0.9432 , Testing Accuracy = 0.8791
+	 	 At Iteration =  7
+	 	 	 Took time  61.0 seconds And Primal residual =  13.5146758706  , Dual Residual =  54.6264634308 , ePri = 14.5845019329 , eDual= 8.86772276328
+	 	 	 Training Accuracy = 0.94988 , Testing Accuracy = 0.8785
+	 	 At Iteration =  8
+	 	 	 Took time  62.385999918 seconds And Primal residual =  10.6414255161  , Dual Residual =  41.0890910455 , ePri = 14.6285618667 , eDual= 8.82732687962
+	 	 	 Training Accuracy = 0.95612 , Testing Accuracy = 0.8769
+	 	 At Iteration =  9
+	 	 	 Took time  62.5519998074 seconds And Primal residual =  8.523856629  , Dual Residual =  30.5379288795 , ePri = 14.6578446354 , eDual= 8.79941831937
+	 	 	 Training Accuracy = 0.96048 , Testing Accuracy = 0.8757
+	 	 At Iteration =  10
+	 	 	 Took time  60.6270000935 seconds And Primal residual =  6.92148977457  , Dual Residual =  22.5430494635 , ePri = 14.6744137328 , eDual= 8.78115357546
+	 	 	 Training Accuracy = 0.96468 , Testing Accuracy = 0.8735
+	 	 At Iteration =  11
+	 	 	 Took time  60.5320000648 seconds And Primal residual =  5.66061999063  , Dual Residual =  16.8226797569 , ePri = 14.6804865021 , eDual= 8.76991428868
+	 	 	 Training Accuracy = 0.96592 , Testing Accuracy = 0.8713
+	 	 At Iteration =  12
+	 	 	 Took time  60.6210000515 seconds And Primal residual =  4.62484850977  , Dual Residual =  13.2398851562 , ePri = 14.6784305025 , eDual= 8.76430643988
+	 	 	 Training Accuracy = 0.9666 , Testing Accuracy = 0.8712
+	 	 At Iteration =  13
+	 	 	 Took time  60.6749999523 seconds And Primal residual =  3.74232076163  , Dual Residual =  11.5424186435 , ePri = 14.6704278228 , eDual= 8.76291937803
+	 	 	 Training Accuracy = 0.96704 , Testing Accuracy = 0.87
+	 	 At Iteration =  14
+	 	 	 Took time  62.8960001469 seconds And Primal residual =  2.98444292535  , Dual Residual =  11.0674230699 , ePri = 14.6584266503 , eDual= 8.7642383283
+	 	 	 Training Accuracy = 0.96792 , Testing Accuracy = 0.8703
+	 	 At Iteration =  15
+	 	 	 Took time  67.9539999962 seconds And Primal residual =  2.34912497037  , Dual Residual =  11.0280426905 , ePri = 14.6440888857 , eDual= 8.76735998929
+	 	 	 Training Accuracy = 0.96832 , Testing Accuracy = 0.8709
+	 	 At Iteration =  16
+	 	 	 Took time  61.3459999561 seconds And Primal residual =  1.82492875573  , Dual Residual =  10.935241342 , ePri = 14.6287828411 , eDual= 8.77141648543
+	 	 	 Training Accuracy = 0.96844 , Testing Accuracy = 0.87
+	 	 At Iteration =  17
+	 	 	 Took time  60.5550000668 seconds And Primal residual =  1.43129109126  , Dual Residual =  10.5844289 , ePri = 14.6135461701 , eDual= 8.77586482538
+	 	 	 Training Accuracy = 0.96892 , Testing Accuracy = 0.8693
+	 	 At Iteration =  18
+	 	 	 Took time  60.7079999447 seconds And Primal residual =  1.15942804439  , Dual Residual =  9.96251040667 , ePri = 14.5991280864 , eDual= 8.78042916457
+	 	 	 Training Accuracy = 0.96916 , Testing Accuracy = 0.8689
+	 	 At Iteration =  19
+	 	 	 Took time  60.7279999256 seconds And Primal residual =  0.995556002947  , Dual Residual =  9.13320969835 , ePri = 14.5860354281 , eDual= 8.78500520147
+	 	 	 Training Accuracy = 0.96936 , Testing Accuracy = 0.8691
+	 	 At Iteration =  20
+	 	 	 Took time  60.3359999657 seconds And Primal residual =  0.902637803526  , Dual Residual =  8.17906890821 , ePri = 14.5745584284 , eDual= 8.78953827847
+	 	 	 Training Accuracy = 0.96936 , Testing Accuracy = 0.8697
+	 	 ADMM finished in 1235.29499984 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.96936
+	 	 	 Test Data Accuracy =  0.8697
+	 For Rho =  0.0001
+	 	 At Iteration =  1
+	 	 	 Took time  59.9579999447 seconds And Primal residual =  63.3045559324  , Dual Residual =  377.541105602 , ePri = 14.1911181775 , eDual= 4.83678786643
+	 	 	 Training Accuracy = 0.98248 , Testing Accuracy = 0.6698
+	 	 At Iteration =  2
+	 	 	 Took time  60.3480000496 seconds And Primal residual =  61.8838746852  , Dual Residual =  159.344114093 , ePri = 14.310808783 , eDual= 7.16987085411
+	 	 	 Training Accuracy = 0.98916 , Testing Accuracy = 0.7429
+	 	 At Iteration =  3
+	 	 	 Took time  61.3980000019 seconds And Primal residual =  44.1479378458  , Dual Residual =  145.208203813 , ePri = 14.3169091847 , eDual= 8.55080589893
+	 	 	 Training Accuracy = 0.98408 , Testing Accuracy = 0.8165
+	 	 At Iteration =  4
+	 	 	 Took time  62.257999897 seconds And Primal residual =  27.1151318726  , Dual Residual =  129.784479463 , ePri = 14.3514468183 , eDual= 8.90408665088
+	 	 	 Training Accuracy = 0.96012 , Testing Accuracy = 0.8593
+	 	 At Iteration =  5
+	 	 	 Took time  60.8159999847 seconds And Primal residual =  21.9011703698  , Dual Residual =  96.5400446256 , ePri = 14.4460722172 , eDual= 8.96955770629
+	 	 	 Training Accuracy = 0.94412 , Testing Accuracy = 0.8761
+	 	 At Iteration =  6
+	 	 	 Took time  61.6660001278 seconds And Primal residual =  17.3575117064  , Dual Residual =  72.5150734685 , ePri = 14.524398266 , eDual= 8.92739350378
+	 	 	 Training Accuracy = 0.94312 , Testing Accuracy = 0.8791
+	 	 At Iteration =  7
+	 	 	 Took time  60.8010001183 seconds And Primal residual =  13.5300213924  , Dual Residual =  54.5892116159 , ePri = 14.5846138943 , eDual= 8.87294857441
+	 	 	 Training Accuracy = 0.9498 , Testing Accuracy = 0.8786
+	 	 At Iteration =  8
+	 	 	 Took time  61.1759998798 seconds And Primal residual =  10.6534504976  , Dual Residual =  41.060327841 , ePri = 14.6286544473 , eDual= 8.83267621816
+	 	 	 Training Accuracy = 0.95612 , Testing Accuracy = 0.8769
+	 	 At Iteration =  9
+	 	 	 Took time  60.9300000668 seconds And Primal residual =  8.53301882525  , Dual Residual =  30.517420873 , ePri = 14.65792468 , eDual= 8.80484523632
+	 	 	 Training Accuracy = 0.96044 , Testing Accuracy = 0.8757
+	 	 At Iteration =  10
+	 	 	 Took time  61.6969997883 seconds And Primal residual =  6.92791903635  , Dual Residual =  22.5313309026 , ePri = 14.6744851923 , eDual= 8.78660899757
+	 	 	 Training Accuracy = 0.96464 , Testing Accuracy = 0.8736
+	 	 At Iteration =  11
+	 	 	 Took time  60.4570000172 seconds And Primal residual =  5.6652447422  , Dual Residual =  16.8179619781 , ePri = 14.680551439 , eDual= 8.7753862362
+	 	 	 Training Accuracy = 0.96592 , Testing Accuracy = 0.8713
+	 	 At Iteration =  12
+	 	 	 Took time  62.2709999084 seconds And Primal residual =  4.62832895931  , Dual Residual =  13.2402950634 , ePri = 14.6784889975 , eDual= 8.76978397295
+	 	 	 Training Accuracy = 0.9666 , Testing Accuracy = 0.8712
+	 	 At Iteration =  13
+	 	 	 Took time  60.6590001583 seconds And Primal residual =  3.74516227104  , Dual Residual =  11.544218012 , ePri = 14.6704791105 , eDual= 8.76840657992
+	 	 	 Training Accuracy = 0.96704 , Testing Accuracy = 0.87
+	 	 At Iteration =  14
+	 	 	 Took time  60.2520000935 seconds And Primal residual =  2.98677019832  , Dual Residual =  11.0685663732 , ePri = 14.6584692189 , eDual= 8.76973895423
+	 	 	 Training Accuracy = 0.96788 , Testing Accuracy = 0.8703
+	 	 At Iteration =  15
+	 	 	 Took time  63.7840001583 seconds And Primal residual =  2.3510294181  , Dual Residual =  11.0284498706 , ePri = 14.6441217065 , eDual= 8.77287423224
+	 	 	 Training Accuracy = 0.96828 , Testing Accuracy = 0.8709
+	 	 At Iteration =  16
+	 	 	 Took time  60.7200000286 seconds And Primal residual =  1.82647702871  , Dual Residual =  10.9351390542 , ePri = 14.6288054547 , eDual= 8.77694775543
+	 	 	 Training Accuracy = 0.96844 , Testing Accuracy = 0.87
+	 	 At Iteration =  17
+	 	 	 Took time  60.7799999714 seconds And Primal residual =  1.43250046793  , Dual Residual =  10.5840480483 , ePri = 14.613558623 , eDual= 8.78141322289
+	 	 	 Training Accuracy = 0.96888 , Testing Accuracy = 0.8693
+	 	 At Iteration =  18
+	 	 	 Took time  60.3459999561 seconds And Primal residual =  1.1603522616  , Dual Residual =  9.96192762842 , ePri = 14.599131066 , eDual= 8.78599369407
+	 	 	 Training Accuracy = 0.96916 , Testing Accuracy = 0.8689
+	 	 At Iteration =  19
+	 	 	 Took time  60.6530001163 seconds And Primal residual =  0.996325753612  , Dual Residual =  9.13253169428 , ePri = 14.5860299811 , eDual= 8.79058424584
+	 	 	 Training Accuracy = 0.96936 , Testing Accuracy = 0.8691
+	 	 At Iteration =  20
+	 	 	 Took time  62.6720001698 seconds And Primal residual =  0.90338241874  , Dual Residual =  8.17819030683 , ePri = 14.5745460492 , eDual= 8.79513019715
+	 	 	 Training Accuracy = 0.96932 , Testing Accuracy = 0.8697
+	 	 ADMM finished in 1231.28500009 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.96932
+	 	 	 Test Data Accuracy =  0.8697
+	 For Rho =  1e-05
+	 	 At Iteration =  1
+	 	 	 Took time  60.5810000896 seconds And Primal residual =  63.3068244458  , Dual Residual =  377.522739085 , ePri = 14.1911541967 , eDual= 4.83688045153
+	 	 	 Training Accuracy = 0.98248 , Testing Accuracy = 0.6698
+	 	 At Iteration =  2
+	 	 	 Took time  61.7019999027 seconds And Primal residual =  61.8859677027  , Dual Residual =  159.333911675 , ePri = 14.3108451618 , eDual= 7.17004422976
+	 	 	 Training Accuracy = 0.98916 , Testing Accuracy = 0.7429
+	 	 At Iteration =  3
+	 	 	 Took time  61.3949999809 seconds And Primal residual =  44.1523466069  , Dual Residual =  145.196399591 , ePri = 14.3169468416 , eDual= 8.55113355632
+	 	 	 Training Accuracy = 0.98408 , Testing Accuracy = 0.8165
+	 	 At Iteration =  4
+	 	 	 Took time  60.7289998531 seconds And Primal residual =  27.1171810048  , Dual Residual =  129.775437766 , ePri = 14.3514691598 , eDual= 8.90446977213
+	 	 	 Training Accuracy = 0.96012 , Testing Accuracy = 0.8593
+	 	 At Iteration =  5
+	 	 	 Took time  60.5920000076 seconds And Primal residual =  21.9032680298  , Dual Residual =  96.5330093333 , ePri = 14.4460893069 , eDual= 8.97001126018
+	 	 	 Training Accuracy = 0.94412 , Testing Accuracy = 0.8761
+	 	 At Iteration =  6
+	 	 	 Took time  62.5989999771 seconds And Primal residual =  17.3593926085  , Dual Residual =  72.510190107 , ePri = 14.5244121806 , eDual= 8.9278935811
+	 	 	 Training Accuracy = 0.94308 , Testing Accuracy = 0.8791
+	 	 At Iteration =  7
+	 	 	 Took time  62.3229999542 seconds And Primal residual =  13.5315557727  , Dual Residual =  54.5854849469 , ePri = 14.5846250948 , eDual= 8.87347149212
+	 	 	 Training Accuracy = 0.9498 , Testing Accuracy = 0.8786
+	 	 At Iteration =  8
+	 	 	 Took time  64.4299998283 seconds And Primal residual =  10.6546548284  , Dual Residual =  41.057448042 , ePri = 14.6286637049 , eDual= 8.83321161358
+	 	 	 Training Accuracy = 0.95612 , Testing Accuracy = 0.8769
+	 	 At Iteration =  9
+	 	 	 Took time  64.875 seconds And Primal residual =  8.53393635665  , Dual Residual =  30.5153819322 , ePri = 14.6579327009 , eDual= 8.80538841106
+	 	 	 Training Accuracy = 0.96044 , Testing Accuracy = 0.8757
+	 	 At Iteration =  10
+	 	 	 Took time  62.1119999886 seconds And Primal residual =  6.92856296036  , Dual Residual =  22.530130709 , ePri = 14.6744923282 , eDual= 8.78715505409
+	 	 	 Training Accuracy = 0.96464 , Testing Accuracy = 0.8736
+	 	 At Iteration =  11
+	 	 	 Took time  64.8250000477 seconds And Primal residual =  5.66570629476  , Dual Residual =  16.8175018395 , ePri = 14.6805579409 , eDual= 8.77593394723
+	 	 	 Training Accuracy = 0.96592 , Testing Accuracy = 0.8713
+	 	 At Iteration =  12
+	 	 	 Took time  63.2349998951 seconds And Primal residual =  4.62867694968  , Dual Residual =  13.2403231042 , ePri = 14.6784948387 , eDual= 8.77033223632
+	 	 	 Training Accuracy = 0.9666 , Testing Accuracy = 0.8712
+	 	 At Iteration =  13
+	 	 	 Took time  62.2139999866 seconds And Primal residual =  3.74544767402  , Dual Residual =  11.5443833805 , ePri = 14.6704842173 , eDual= 8.76895579054
+	 	 	 Training Accuracy = 0.96704 , Testing Accuracy = 0.87
+	 	 At Iteration =  14
+	 	 	 Took time  61.7230000496 seconds And Primal residual =  2.98700352396  , Dual Residual =  11.0686818509 , ePri = 14.6584734475 , eDual= 8.77028948001
+	 	 	 Training Accuracy = 0.96788 , Testing Accuracy = 0.8703
+	 	 At Iteration =  15
+	 	 	 Took time  61.4410002232 seconds And Primal residual =  2.3512219824  , Dual Residual =  11.0284650978 , ePri = 14.6441250203 , eDual= 8.77342614883
+	 	 	 Training Accuracy = 0.96828 , Testing Accuracy = 0.8709
+	 	 At Iteration =  16
+	 	 	 Took time  61.3599998951 seconds And Primal residual =  1.82663404415  , Dual Residual =  10.9351290975 , ePri = 14.6288077418 , eDual= 8.7775013814
+	 	 	 Training Accuracy = 0.96844 , Testing Accuracy = 0.87
+	 	 At Iteration =  17
+	 	 	 Took time  61.1069998741 seconds And Primal residual =  1.43261880205  , Dual Residual =  10.5840040078 , ePri = 14.6135599175 , eDual= 8.78196856067
+	 	 	 Training Accuracy = 0.96888 , Testing Accuracy = 0.8693
+	 	 At Iteration =  18
+	 	 	 Took time  61.5069999695 seconds And Primal residual =  1.16044741231  , Dual Residual =  9.96186917478 , ePri = 14.5991314202 , eDual= 8.78655066806
+	 	 	 Training Accuracy = 0.96916 , Testing Accuracy = 0.8689
+	 	 At Iteration =  19
+	 	 	 Took time  61.4030001163 seconds And Primal residual =  0.996404157947  , Dual Residual =  9.13246032647 , ePri = 14.5860294857 , eDual= 8.79114263267
+	 	 	 Training Accuracy = 0.96936 , Testing Accuracy = 0.8691
+	 	 At Iteration =  20
+	 	 	 Took time  61.8399999142 seconds And Primal residual =  0.90345756504  , Dual Residual =  8.17810938217 , ePri = 14.5745448327 , eDual= 8.79568982181
+	 	 	 Training Accuracy = 0.96932 , Testing Accuracy = 0.8697
+	 	 ADMM finished in 1249.59399986 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.96932
+	 	 	 Test Data Accuracy =  0.8697

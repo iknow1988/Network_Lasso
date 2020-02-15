@@ -1,0 +1,410 @@
+Number of Nodes =  1000  , Number of Edges =  17079
+Diameter is  4
+	 For lambda =  1.1
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  62.4299998283 seconds And Primal residual =  63.3045559324  , Dual Residual =  377.541105602
+	 	 	 Training Accuracy = 0.98248 , Testing Accuracy = 0.6698
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  73.756000042 seconds And Primal residual =  61.8838746852  , Dual Residual =  159.344114093
+	 	 	 Training Accuracy = 0.98916 , Testing Accuracy = 0.7429
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.9960000515 seconds And Primal residual =  44.1479378458  , Dual Residual =  145.208203813
+	 	 	 Training Accuracy = 0.98408 , Testing Accuracy = 0.8165
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.0920000076 seconds And Primal residual =  27.1151318726  , Dual Residual =  129.784479463
+	 	 	 Training Accuracy = 0.96012 , Testing Accuracy = 0.8593
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  58.7170000076 seconds And Primal residual =  21.9011703698  , Dual Residual =  96.5400446256
+	 	 	 Training Accuracy = 0.94412 , Testing Accuracy = 0.8761
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  58.6860001087 seconds And Primal residual =  17.3575117064  , Dual Residual =  72.5150734685
+	 	 	 Training Accuracy = 0.94312 , Testing Accuracy = 0.8791
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  58.7019999027 seconds And Primal residual =  13.5300213924  , Dual Residual =  54.5892116159
+	 	 	 Training Accuracy = 0.9498 , Testing Accuracy = 0.8786
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  58.5460000038 seconds And Primal residual =  10.6534504976  , Dual Residual =  41.060327841
+	 	 	 Training Accuracy = 0.95612 , Testing Accuracy = 0.8769
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.638999939 seconds And Primal residual =  8.53301882525  , Dual Residual =  30.517420873
+	 	 	 Training Accuracy = 0.96044 , Testing Accuracy = 0.8757
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  58.5959999561 seconds And Primal residual =  6.92791903635  , Dual Residual =  22.5313309026
+	 	 	 Training Accuracy = 0.96464 , Testing Accuracy = 0.8736
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  63.1940000057 seconds And Primal residual =  5.6652447422  , Dual Residual =  16.8179619781
+	 	 	 Training Accuracy = 0.96592 , Testing Accuracy = 0.8713
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  58.9040000439 seconds And Primal residual =  4.62832895931  , Dual Residual =  13.2402950634
+	 	 	 Training Accuracy = 0.9666 , Testing Accuracy = 0.8712
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  58.6080000401 seconds And Primal residual =  3.74516227104  , Dual Residual =  11.544218012
+	 	 	 Training Accuracy = 0.96704 , Testing Accuracy = 0.87
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  58.7320001125 seconds And Primal residual =  2.98677019832  , Dual Residual =  11.0685663732
+	 	 	 Training Accuracy = 0.96788 , Testing Accuracy = 0.8703
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  58.8109998703 seconds And Primal residual =  2.3510294181  , Dual Residual =  11.0284498706
+	 	 	 Training Accuracy = 0.96828 , Testing Accuracy = 0.8709
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  58.6549999714 seconds And Primal residual =  1.82647702871  , Dual Residual =  10.9351390542
+	 	 	 Training Accuracy = 0.96844 , Testing Accuracy = 0.87
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  58.4679999352 seconds And Primal residual =  1.43250046793  , Dual Residual =  10.5840480483
+	 	 	 Training Accuracy = 0.96888 , Testing Accuracy = 0.8693
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  63.2539999485 seconds And Primal residual =  1.1603522616  , Dual Residual =  9.96192762842
+	 	 	 Training Accuracy = 0.96916 , Testing Accuracy = 0.8689
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  58.4519999027 seconds And Primal residual =  0.996325753612  , Dual Residual =  9.13253169428
+	 	 	 Training Accuracy = 0.96936 , Testing Accuracy = 0.8691
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  58.5929999352 seconds And Primal residual =  0.90338241874  , Dual Residual =  8.17819030683
+	 	 	 Training Accuracy = 0.96932 , Testing Accuracy = 0.8697
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  58.4519999027 seconds And Primal residual =  0.850655447571  , Dual Residual =  7.17154834898
+	 	 	 Training Accuracy = 0.97028 , Testing Accuracy = 0.8693
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  58.5450000763 seconds And Primal residual =  0.812689481557  , Dual Residual =  6.1608069577
+	 	 	 Training Accuracy = 0.97068 , Testing Accuracy = 0.8696
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  58.6560001373 seconds And Primal residual =  0.774353956984  , Dual Residual =  5.18401851844
+	 	 	 Training Accuracy = 0.97128 , Testing Accuracy = 0.8703
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  58.6080000401 seconds And Primal residual =  0.730805781387  , Dual Residual =  4.27475325031
+	 	 	 Training Accuracy = 0.97172 , Testing Accuracy = 0.8707
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  58.638999939 seconds And Primal residual =  0.679038431502  , Dual Residual =  3.45857274956
+	 	 	 Training Accuracy = 0.97204 , Testing Accuracy = 0.8711
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  58.8259999752 seconds And Primal residual =  0.621084793353  , Dual Residual =  2.75321948436
+	 	 	 Training Accuracy = 0.97244 , Testing Accuracy = 0.8716
+	 	 ADMM finished in 1563.48099995 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.97244
+	 	 	 Test Data Accuracy =  0.8716
+	 For lambda =  1.2
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  64.0680000782 seconds And Primal residual =  62.1528502465  , Dual Residual =  386.887420138
+	 	 	 Training Accuracy = 0.98144 , Testing Accuracy = 0.6705
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  58.7960000038 seconds And Primal residual =  60.8183837456  , Dual Residual =  164.553250851
+	 	 	 Training Accuracy = 0.98872 , Testing Accuracy = 0.7433
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  58.8580000401 seconds And Primal residual =  46.2404163294  , Dual Residual =  147.614039357
+	 	 	 Training Accuracy = 0.98344 , Testing Accuracy = 0.8178
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.0449998379 seconds And Primal residual =  27.1790458659  , Dual Residual =  131.615504579
+	 	 	 Training Accuracy = 0.95328 , Testing Accuracy = 0.8579
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  58.8110001087 seconds And Primal residual =  22.3116335708  , Dual Residual =  98.8263217688
+	 	 	 Training Accuracy = 0.933 , Testing Accuracy = 0.8745
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  58.8729999065 seconds And Primal residual =  18.0537327715  , Dual Residual =  75.9137641841
+	 	 	 Training Accuracy = 0.92968 , Testing Accuracy = 0.8763
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  58.6549999714 seconds And Primal residual =  14.3924555422  , Dual Residual =  58.1920596658
+	 	 	 Training Accuracy = 0.9332 , Testing Accuracy = 0.8753
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  58.6550002098 seconds And Primal residual =  11.54968282  , Dual Residual =  44.2692374505
+	 	 	 Training Accuracy = 0.93724 , Testing Accuracy = 0.8729
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.6549999714 seconds And Primal residual =  9.40338891017  , Dual Residual =  33.2963653764
+	 	 	 Training Accuracy = 0.9402 , Testing Accuracy = 0.8703
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.0449998379 seconds And Primal residual =  7.76158894705  , Dual Residual =  24.8910407512
+	 	 	 Training Accuracy = 0.94156 , Testing Accuracy = 0.8673
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  58.8450000286 seconds And Primal residual =  6.45747938029  , Dual Residual =  18.6454054566
+	 	 	 Training Accuracy = 0.94216 , Testing Accuracy = 0.8666
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  58.7180001736 seconds And Primal residual =  5.39670389961  , Dual Residual =  14.3047056642
+	 	 	 Training Accuracy = 0.94188 , Testing Accuracy = 0.866
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  58.5609998703 seconds And Primal residual =  4.49629721182  , Dual Residual =  11.7934225309
+	 	 	 Training Accuracy = 0.94216 , Testing Accuracy = 0.8656
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  58.5460000038 seconds And Primal residual =  3.73702276823  , Dual Residual =  10.6530471836
+	 	 	 Training Accuracy = 0.94236 , Testing Accuracy = 0.8651
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  58.7009999752 seconds And Primal residual =  3.10263241392  , Dual Residual =  10.2649276592
+	 	 	 Training Accuracy = 0.9428 , Testing Accuracy = 0.8651
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.0439999104 seconds And Primal residual =  2.57528470081  , Dual Residual =  10.1245804607
+	 	 	 Training Accuracy = 0.94372 , Testing Accuracy = 0.8654
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  58.7020001411 seconds And Primal residual =  2.13453041476  , Dual Residual =  9.96197549279
+	 	 	 Training Accuracy = 0.9444 , Testing Accuracy = 0.8659
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  58.4519999027 seconds And Primal residual =  1.77970087063  , Dual Residual =  9.67459996802
+	 	 	 Training Accuracy = 0.9452 , Testing Accuracy = 0.8658
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  58.5769999027 seconds And Primal residual =  1.49795302589  , Dual Residual =  9.23628512079
+	 	 	 Training Accuracy = 0.94588 , Testing Accuracy = 0.8662
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  58.5929999352 seconds And Primal residual =  1.29561496868  , Dual Residual =  8.65111025882
+	 	 	 Training Accuracy = 0.94656 , Testing Accuracy = 0.8666
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  58.4990000725 seconds And Primal residual =  1.13906935635  , Dual Residual =  7.97055460507
+	 	 	 Training Accuracy = 0.94744 , Testing Accuracy = 0.8668
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  58.7799999714 seconds And Primal residual =  1.01670072074  , Dual Residual =  7.23480626929
+	 	 	 Training Accuracy = 0.94824 , Testing Accuracy = 0.8662
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  67.5780000687 seconds And Primal residual =  0.930255950555  , Dual Residual =  6.46649620711
+	 	 	 Training Accuracy = 0.94904 , Testing Accuracy = 0.8667
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  58.623000145 seconds And Primal residual =  0.853737434304  , Dual Residual =  5.69412988902
+	 	 	 Training Accuracy = 0.95008 , Testing Accuracy = 0.8667
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  58.4200000763 seconds And Primal residual =  0.790783684969  , Dual Residual =  4.94791238611
+	 	 	 Training Accuracy = 0.95092 , Testing Accuracy = 0.8669
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  58.6390001774 seconds And Primal residual =  0.732806643937  , Dual Residual =  4.24948797219
+	 	 	 Training Accuracy = 0.95188 , Testing Accuracy = 0.8678
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  58.6869997978 seconds And Primal residual =  0.679067511114  , Dual Residual =  3.61778298732
+	 	 	 Training Accuracy = 0.9528 , Testing Accuracy = 0.8684
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  58.7479999065 seconds And Primal residual =  0.622267983492  , Dual Residual =  3.07204251403
+	 	 	 Training Accuracy = 0.95356 , Testing Accuracy = 0.8683
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  58.6870000362 seconds And Primal residual =  0.564704329486  , Dual Residual =  2.61283068048
+	 	 	 Training Accuracy = 0.95432 , Testing Accuracy = 0.8688
+	 	 ADMM finished in 1726.71899986 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.95432
+	 	 	 Test Data Accuracy =  0.8688
+	 For lambda =  1.3
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  58.6240000725 seconds And Primal residual =  61.0943227  , Dual Residual =  395.54369941
+	 	 	 Training Accuracy = 0.98064 , Testing Accuracy = 0.6705
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.0770001411 seconds And Primal residual =  59.8325959957  , Dual Residual =  169.422552663
+	 	 	 Training Accuracy = 0.988 , Testing Accuracy = 0.7421
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  58.9199998379 seconds And Primal residual =  47.4602459758  , Dual Residual =  151.03418646
+	 	 	 Training Accuracy = 0.98276 , Testing Accuracy = 0.8192
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  58.9049999714 seconds And Primal residual =  27.5295341637  , Dual Residual =  131.924105562
+	 	 	 Training Accuracy = 0.94916 , Testing Accuracy = 0.8588
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  58.7960000038 seconds And Primal residual =  22.2324792718  , Dual Residual =  99.2396823141
+	 	 	 Training Accuracy = 0.92276 , Testing Accuracy = 0.8718
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  58.888999939 seconds And Primal residual =  18.1043968552  , Dual Residual =  77.2510095417
+	 	 	 Training Accuracy = 0.9184 , Testing Accuracy = 0.8727
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  58.6239998341 seconds And Primal residual =  14.582572223  , Dual Residual =  60.4781408492
+	 	 	 Training Accuracy = 0.92096 , Testing Accuracy = 0.8701
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.0450000763 seconds And Primal residual =  11.9069072781  , Dual Residual =  46.6602555398
+	 	 	 Training Accuracy = 0.92272 , Testing Accuracy = 0.8671
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.7799999714 seconds And Primal residual =  9.86717351262  , Dual Residual =  35.6330300135
+	 	 	 Training Accuracy = 0.92184 , Testing Accuracy = 0.8644
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.1390001774 seconds And Primal residual =  8.22701575137  , Dual Residual =  27.3450721332
+	 	 	 Training Accuracy = 0.92 , Testing Accuracy = 0.8611
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  58.9519999027 seconds And Primal residual =  6.90954856886  , Dual Residual =  21.2169869913
+	 	 	 Training Accuracy = 0.918 , Testing Accuracy = 0.8595
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.4530000687 seconds And Primal residual =  5.84572837007  , Dual Residual =  16.6707835956
+	 	 	 Training Accuracy = 0.9154 , Testing Accuracy = 0.8579
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  58.9090001583 seconds And Primal residual =  5.01212373074  , Dual Residual =  13.3306127784
+	 	 	 Training Accuracy = 0.91316 , Testing Accuracy = 0.8562
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  58.7170000076 seconds And Primal residual =  4.32059391959  , Dual Residual =  11.1112362556
+	 	 	 Training Accuracy = 0.91184 , Testing Accuracy = 0.8552
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  58.7490000725 seconds And Primal residual =  3.72350457036  , Dual Residual =  9.90772948057
+	 	 	 Training Accuracy = 0.90996 , Testing Accuracy = 0.8542
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.5910000801 seconds And Primal residual =  3.225430842  , Dual Residual =  9.27641356884
+	 	 	 Training Accuracy = 0.91056 , Testing Accuracy = 0.8524
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.7779998779 seconds And Primal residual =  2.81650431671  , Dual Residual =  8.8565358192
+	 	 	 Training Accuracy = 0.91028 , Testing Accuracy = 0.8517
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  58.7170000076 seconds And Primal residual =  2.4659452269  , Dual Residual =  8.49632836861
+	 	 	 Training Accuracy = 0.90996 , Testing Accuracy = 0.852
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  58.7820000648 seconds And Primal residual =  2.1732180218  , Dual Residual =  8.14166600249
+	 	 	 Training Accuracy = 0.91008 , Testing Accuracy = 0.8519
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  58.9509999752 seconds And Primal residual =  1.91915521472  , Dual Residual =  7.75562803123
+	 	 	 Training Accuracy = 0.91064 , Testing Accuracy = 0.852
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  58.9820001125 seconds And Primal residual =  1.70858290605  , Dual Residual =  7.32057536098
+	 	 	 Training Accuracy = 0.91116 , Testing Accuracy = 0.8525
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  58.5920000076 seconds And Primal residual =  1.541153521  , Dual Residual =  6.83573084812
+	 	 	 Training Accuracy = 0.91216 , Testing Accuracy = 0.8533
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  58.7950000763 seconds And Primal residual =  1.40559863692  , Dual Residual =  6.32208906175
+	 	 	 Training Accuracy = 0.91324 , Testing Accuracy = 0.854
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  58.5609998703 seconds And Primal residual =  1.28929153292  , Dual Residual =  5.797456618
+	 	 	 Training Accuracy = 0.91412 , Testing Accuracy = 0.8545
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  58.6550002098 seconds And Primal residual =  1.18749233655  , Dual Residual =  5.29216055137
+	 	 	 Training Accuracy = 0.91508 , Testing Accuracy = 0.8549
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  58.7489998341 seconds And Primal residual =  1.10359362892  , Dual Residual =  4.80179979273
+	 	 	 Training Accuracy = 0.91668 , Testing Accuracy = 0.8558
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  58.7170000076 seconds And Primal residual =  1.02217984808  , Dual Residual =  4.32788616818
+	 	 	 Training Accuracy = 0.918 , Testing Accuracy = 0.8561
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  58.7009999752 seconds And Primal residual =  0.948824719182  , Dual Residual =  3.89838623683
+	 	 	 Training Accuracy = 0.91916 , Testing Accuracy = 0.8574
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  58.7640001774 seconds And Primal residual =  0.882239429884  , Dual Residual =  3.51163885088
+	 	 	 Training Accuracy = 0.91996 , Testing Accuracy = 0.8578
+	 	 At Iteration =  30
+	 	 	 Iteration  30  took time  59.0009999275 seconds And Primal residual =  0.819626718149  , Dual Residual =  3.17284537831
+	 	 	 Training Accuracy = 0.92128 , Testing Accuracy = 0.8589
+	 	 At Iteration =  31
+	 	 	 Iteration  31  took time  58.6710000038 seconds And Primal residual =  0.756728082425  , Dual Residual =  2.89363086471
+	 	 	 Training Accuracy = 0.92188 , Testing Accuracy = 0.859
+	 	 ADMM finished in 1835.60299993 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.92188
+	 	 	 Test Data Accuracy =  0.859
+	 For lambda =  1.4
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  58.4670000076 seconds And Primal residual =  60.1116395068  , Dual Residual =  403.583425822
+	 	 	 Training Accuracy = 0.9798 , Testing Accuracy = 0.6705
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  58.8269999027 seconds And Primal residual =  58.9173710037  , Dual Residual =  174.011566581
+	 	 	 Training Accuracy = 0.98736 , Testing Accuracy = 0.7419
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  58.8259999752 seconds And Primal residual =  47.7253791937  , Dual Residual =  154.871977042
+	 	 	 Training Accuracy = 0.98248 , Testing Accuracy = 0.8192
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.3100001812 seconds And Primal residual =  28.5720704375  , Dual Residual =  131.931410211
+	 	 	 Training Accuracy = 0.94564 , Testing Accuracy = 0.8595
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.0789999962 seconds And Primal residual =  22.066265031  , Dual Residual =  99.1446588314
+	 	 	 Training Accuracy = 0.90976 , Testing Accuracy = 0.8663
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  58.9509999752 seconds And Primal residual =  17.8632782127  , Dual Residual =  77.6229175912
+	 	 	 Training Accuracy = 0.90856 , Testing Accuracy = 0.8684
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.0340001583 seconds And Primal residual =  14.3854570492  , Dual Residual =  62.2328024321
+	 	 	 Training Accuracy = 0.91132 , Testing Accuracy = 0.863
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  58.9350001812 seconds And Primal residual =  11.9000733394  , Dual Residual =  48.8798528422
+	 	 	 Training Accuracy = 0.9112 , Testing Accuracy = 0.859
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.7949998379 seconds And Primal residual =  10.0207579891  , Dual Residual =  37.9605010362
+	 	 	 Training Accuracy = 0.90796 , Testing Accuracy = 0.8562
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  58.9200000763 seconds And Primal residual =  8.45652099944  , Dual Residual =  29.9589195556
+	 	 	 Training Accuracy = 0.90292 , Testing Accuracy = 0.8513
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  58.7329998016 seconds And Primal residual =  7.14024766489  , Dual Residual =  24.1774635606
+	 	 	 Training Accuracy = 0.89744 , Testing Accuracy = 0.846
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  58.6860001087 seconds And Primal residual =  6.07031381139  , Dual Residual =  19.7672582953
+	 	 	 Training Accuracy = 0.89232 , Testing Accuracy = 0.8422
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  58.7330000401 seconds And Primal residual =  5.24474066805  , Dual Residual =  16.1402815416
+	 	 	 Training Accuracy = 0.88784 , Testing Accuracy = 0.8402
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.0909998417 seconds And Primal residual =  4.56717655588  , Dual Residual =  13.3409389096
+	 	 	 Training Accuracy = 0.88408 , Testing Accuracy = 0.8393
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  58.7649998665 seconds And Primal residual =  3.99334090137  , Dual Residual =  11.4717742189
+	 	 	 Training Accuracy = 0.88192 , Testing Accuracy = 0.8395
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.0920000076 seconds And Primal residual =  3.51462839761  , Dual Residual =  10.1888222973
+	 	 	 Training Accuracy = 0.87988 , Testing Accuracy = 0.8381
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.1510000229 seconds And Primal residual =  3.09681434198  , Dual Residual =  9.2996189384
+	 	 	 Training Accuracy = 0.87732 , Testing Accuracy = 0.8369
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.4100000858 seconds And Primal residual =  2.75423796808  , Dual Residual =  8.55344124759
+	 	 	 Training Accuracy = 0.87584 , Testing Accuracy = 0.8353
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  58.9670000076 seconds And Primal residual =  2.4746294028  , Dual Residual =  7.89786030365
+	 	 	 Training Accuracy = 0.87488 , Testing Accuracy = 0.835
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  58.5770001411 seconds And Primal residual =  2.24930154217  , Dual Residual =  7.30655113034
+	 	 	 Training Accuracy = 0.87432 , Testing Accuracy = 0.8343
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  58.9350001812 seconds And Primal residual =  2.05823785  , Dual Residual =  6.7605247993
+	 	 	 Training Accuracy = 0.87392 , Testing Accuracy = 0.8343
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.5750000477 seconds And Primal residual =  1.88489332819  , Dual Residual =  6.27172928335
+	 	 	 Training Accuracy = 0.87372 , Testing Accuracy = 0.8345
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  58.8880000114 seconds And Primal residual =  1.73369498269  , Dual Residual =  5.83342756085
+	 	 	 Training Accuracy = 0.87384 , Testing Accuracy = 0.8348
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.7309999466 seconds And Primal residual =  1.60335238077  , Dual Residual =  5.39629273105
+	 	 	 Training Accuracy = 0.87428 , Testing Accuracy = 0.835
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.1700000763 seconds And Primal residual =  1.48906611298  , Dual Residual =  4.97762477684
+	 	 	 Training Accuracy = 0.8744 , Testing Accuracy = 0.835
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.3880000114 seconds And Primal residual =  1.38934066113  , Dual Residual =  4.58696824137
+	 	 	 Training Accuracy = 0.87516 , Testing Accuracy = 0.8356
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  59.7319998741 seconds And Primal residual =  1.29823127749  , Dual Residual =  4.23465555021
+	 	 	 Training Accuracy = 0.87592 , Testing Accuracy = 0.8361
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  58.8110001087 seconds And Primal residual =  1.21662611551  , Dual Residual =  3.92963552498
+	 	 	 Training Accuracy = 0.8768 , Testing Accuracy = 0.8369
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  59.0130000114 seconds And Primal residual =  1.14046369541  , Dual Residual =  3.67244980134
+	 	 	 Training Accuracy = 0.8776 , Testing Accuracy = 0.8376
+	 	 At Iteration =  30
+	 	 	 Iteration  30  took time  58.8580000401 seconds And Primal residual =  1.0705136201  , Dual Residual =  3.45880035589
+	 	 	 Training Accuracy = 0.87892 , Testing Accuracy = 0.839
+	 	 At Iteration =  31
+	 	 	 Iteration  31  took time  58.8580000401 seconds And Primal residual =  1.00630504929  , Dual Residual =  3.27767661648
+	 	 	 Training Accuracy = 0.88008 , Testing Accuracy = 0.8401
+	 	 At Iteration =  32
+	 	 	 Iteration  32  took time  59.0449998379 seconds And Primal residual =  0.945340446929  , Dual Residual =  3.12900443551
+	 	 	 Training Accuracy = 0.8804 , Testing Accuracy = 0.8405
+	 	 At Iteration =  33
+	 	 	 Iteration  33  took time  58.9670000076 seconds And Primal residual =  0.889305061958  , Dual Residual =  3.00172533992
+	 	 	 Training Accuracy = 0.88136 , Testing Accuracy = 0.8415
+	 	 At Iteration =  34
+	 	 	 Iteration  34  took time  58.9669997692 seconds And Primal residual =  0.837478276559  , Dual Residual =  2.88548666045
+	 	 	 Training Accuracy = 0.88208 , Testing Accuracy = 0.8418
+	 	 ADMM finished in 2018.03399992 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.88208
+	 	 	 Test Data Accuracy =  0.8418
+Number of Nodes =  1000  , Number of Edges =  17079
+Diameter is  4
+	 For lambda =  0.0
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  60.0329999924 seconds And Primal residual =  0.0  , Dual Residual =  0.0902038154693
+	 	 ADMM finished in 60.5889999866 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  1.0
+	 	 	 Test Data Accuracy =  0.659
+Number of Nodes =  1000  , Number of Edges =  17079
+Diameter is  4
+	 For lambda =  0.0
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  60.0870001316 seconds And Primal residual =  0.0  , Dual Residual =  0.0902038154693
+Number of Nodes =  1000  , Number of Edges =  17079
+Diameter is  4
+	 For lambda =  0.0
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  58.6380000114 seconds And Primal residual =  0.0  , Dual Residual =  0.0902038154693
+	 	 ADMM finished in 59.25 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  1.0
+	 	 	 Test Data Accuracy =  0.659
+Number of Nodes =  1000  , Number of Edges =  17079
+Diameter is  4
+	 For lambda =  0.0
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.0 seconds And Primal residual =  0.0  , Dual Residual =  0.0902038154693

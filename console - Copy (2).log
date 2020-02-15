@@ -1,0 +1,2067 @@
+Number of Nodes =  1000  , Number of Edges =  17079
+Diameter is  4
+	 For lambda =  0.0
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.8949999809 seconds And Primal residual =  0.0  , Dual Residual =  0.0902038154693
+	 	 ADMM finished in 60.3309998512 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  1.0
+	 	 	 Test Data Accuracy =  0.659
+	 For lambda =  0.05
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.9539999962 seconds And Primal residual =  41.3080865449  , Dual Residual =  158.917319201
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.7790000439 seconds And Primal residual =  3.17612508644  , Dual Residual =  39.930031857
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  58.4089999199 seconds And Primal residual =  1.6793391121  , Dual Residual =  7.55699206467
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  58.5119998455 seconds And Primal residual =  1.11691509999  , Dual Residual =  5.75239143019
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  58.4430000782 seconds And Primal residual =  0.854951111473  , Dual Residual =  4.6542489878
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  58.1649999619 seconds And Primal residual =  0.682564651612  , Dual Residual =  3.78440165593
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  62.5680000782 seconds And Primal residual =  0.552009559147  , Dual Residual =  3.08431659445
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  58.0359997749 seconds And Primal residual =  0.448608271703  , Dual Residual =  2.51773605659
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.1779999733 seconds And Primal residual =  0.365546588249  , Dual Residual =  2.05829732557
+	 	 ADMM finished in 533.869999886 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  1.0
+	 	 	 Test Data Accuracy =  0.7311
+	 For lambda =  0.1
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  58.6410000324 seconds And Primal residual =  58.4258156751  , Dual Residual =  196.436166645
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  58.5750000477 seconds And Primal residual =  6.22855041393  , Dual Residual =  84.6528735744
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  58.5090000629 seconds And Primal residual =  4.06519079668  , Dual Residual =  18.4914803062
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  60.9700000286 seconds And Primal residual =  2.57028422379  , Dual Residual =  11.9949314995
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  58.5810000896 seconds And Primal residual =  1.83105892702  , Dual Residual =  9.27758920942
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  58.3359999657 seconds And Primal residual =  1.39713659545  , Dual Residual =  7.37833512616
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  58.4070000648 seconds And Primal residual =  1.10347468282  , Dual Residual =  5.94373415456
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  58.3320000172 seconds And Primal residual =  0.88482211143  , Dual Residual =  4.81040291829
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.2190001011 seconds And Primal residual =  0.713212609717  , Dual Residual =  3.89777229941
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  58.2339999676 seconds And Primal residual =  0.577521243926  , Dual Residual =  3.16610761067
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  58.3609998226 seconds And Primal residual =  0.468809194677  , Dual Residual =  2.57489838429
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  62.1029999256 seconds And Primal residual =  0.381091043695  , Dual Residual =  2.09589698982
+	 	 ADMM finished in 709.584000111 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  1.0
+	 	 	 Test Data Accuracy =  0.7622
+	 For lambda =  0.15
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  58.9089999199 seconds And Primal residual =  71.4176638885  , Dual Residual =  212.518647547
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  58.7079999447 seconds And Primal residual =  8.30499107631  , Dual Residual =  125.010645292
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  58.5670001507 seconds And Primal residual =  6.64246225479  , Dual Residual =  32.8598042605
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  58.2239999771 seconds And Primal residual =  4.40583136716  , Dual Residual =  19.1727667475
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  58.5470001698 seconds And Primal residual =  2.98722808636  , Dual Residual =  13.6697438912
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  58.3840000629 seconds And Primal residual =  2.16912355661  , Dual Residual =  10.5271158473
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  58.5369999409 seconds And Primal residual =  1.6453284769  , Dual Residual =  8.25739509701
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  58.4370000362 seconds And Primal residual =  1.27852441424  , Dual Residual =  6.54089749889
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.6380000114 seconds And Primal residual =  1.00796699832  , Dual Residual =  5.21078254385
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  58.8349997997 seconds And Primal residual =  0.800796295382  , Dual Residual =  4.16101688348
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  58.6040000916 seconds And Primal residual =  0.639011087411  , Dual Residual =  3.32985436961
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  62.4679999352 seconds And Primal residual =  0.511391730767  , Dual Residual =  2.66879258602
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  58.4940001965 seconds And Primal residual =  0.409896766672  , Dual Residual =  2.14077902668
+	 	 ADMM finished in 767.894000053 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  1.0
+	 	 	 Test Data Accuracy =  0.7804
+	 For lambda =  0.2
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  58.9479999542 seconds And Primal residual =  79.552134481  , Dual Residual =  222.019331794
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.9490001202 seconds And Primal residual =  11.0955655647  , Dual Residual =  152.365065425
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  58.8499999046 seconds And Primal residual =  8.706642757  , Dual Residual =  48.7226595214
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  64.765999794 seconds And Primal residual =  6.26077430811  , Dual Residual =  26.9917230862
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  66.1989998817 seconds And Primal residual =  4.3363474889  , Dual Residual =  18.4778939942
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  60.771999836 seconds And Primal residual =  3.07772767949  , Dual Residual =  13.6068072723
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  67.6660001278 seconds And Primal residual =  2.25788280674  , Dual Residual =  10.3453444623
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  58.6360001564 seconds And Primal residual =  1.69612244065  , Dual Residual =  7.96723367385
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.4379999638 seconds And Primal residual =  1.29626331252  , Dual Residual =  6.19329207683
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  58.8159999847 seconds And Primal residual =  1.00288705493  , Dual Residual =  4.8420101031
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  62.8529999256 seconds And Primal residual =  0.781843922882  , Dual Residual =  3.79723294793
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  58.7869999409 seconds And Primal residual =  0.612618912044  , Dual Residual =  2.98389542046
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  58.4990000725 seconds And Primal residual =  0.481426870461  , Dual Residual =  2.34773725321
+	 	 ADMM finished in 795.873000145 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  1.0
+	 	 	 Test Data Accuracy =  0.7897
+	 For lambda =  0.25
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.4029998779 seconds And Primal residual =  81.0043508908  , Dual Residual =  234.793012813
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.1399998665 seconds And Primal residual =  17.4501252858  , Dual Residual =  158.688493322
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  58.6740000248 seconds And Primal residual =  10.0110722896  , Dual Residual =  66.8488849195
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  58.6600000858 seconds And Primal residual =  7.83755670373  , Dual Residual =  35.3032519112
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  58.7239999771 seconds And Primal residual =  5.65536416759  , Dual Residual =  23.4849912707
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  58.5220000744 seconds And Primal residual =  4.04203319373  , Dual Residual =  16.7699800651
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  58.6159999371 seconds And Primal residual =  2.92119753419  , Dual Residual =  12.3543160745
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  62.0769999027 seconds And Primal residual =  2.14629560258  , Dual Residual =  9.27075117679
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.5950000286 seconds And Primal residual =  1.60214918569  , Dual Residual =  7.03426996692
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  58.7139999866 seconds And Primal residual =  1.2103299274  , Dual Residual =  5.36987298025
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  58.756000042 seconds And Primal residual =  0.922374290942  , Dual Residual =  4.11422607764
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  58.739000082 seconds And Primal residual =  0.707389644577  , Dual Residual =  3.15829239142
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  58.5310001373 seconds And Primal residual =  0.544629790946  , Dual Residual =  2.4261787485
+	 	 ADMM finished in 769.735999823 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.99996
+	 	 	 Test Data Accuracy =  0.7983
+	 For lambda =  0.3
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  58.8409998417 seconds And Primal residual =  79.5897250336  , Dual Residual =  249.506410718
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  58.9509999752 seconds And Primal residual =  25.9848872097  , Dual Residual =  154.188153951
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  63.0169999599 seconds And Primal residual =  10.769284817  , Dual Residual =  85.844526115
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  58.6540000439 seconds And Primal residual =  9.06205904851  , Dual Residual =  43.5999855949
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  58.5269999504 seconds And Primal residual =  6.82593652913  , Dual Residual =  28.4344105763
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  58.4410002232 seconds And Primal residual =  4.96721324885  , Dual Residual =  19.8106969052
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  58.6229999065 seconds And Primal residual =  3.59290930191  , Dual Residual =  14.2268361376
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  58.756000042 seconds And Primal residual =  2.61270731695  , Dual Residual =  10.4032576298
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.5360000134 seconds And Primal residual =  1.91697120053  , Dual Residual =  7.68714683021
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  61.9520001411 seconds And Primal residual =  1.42086796057  , Dual Residual =  5.71338135702
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  58.7849998474 seconds And Primal residual =  1.06163675859  , Dual Residual =  4.25480130989
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  58.5529999733 seconds And Primal residual =  0.797095326275  , Dual Residual =  3.16876803939
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  62.5390000343 seconds And Primal residual =  0.599407926648  , Dual Residual =  2.35732782489
+	 	 ADMM finished in 776.65899992 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.99988
+	 	 	 Test Data Accuracy =  0.8034
+	 For lambda =  0.35
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  58.9830000401 seconds And Primal residual =  77.820699843  , Dual Residual =  263.246493528
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.5690000057 seconds And Primal residual =  34.8226548664  , Dual Residual =  147.279698866
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.1139998436 seconds And Primal residual =  11.4089537539  , Dual Residual =  104.212365224
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  58.5299999714 seconds And Primal residual =  9.97911468864  , Dual Residual =  51.4310801107
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  61.609000206 seconds And Primal residual =  7.85840813018  , Dual Residual =  33.3408966026
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  58.8970000744 seconds And Primal residual =  5.84790845294  , Dual Residual =  22.7195865431
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  58.8559999466 seconds And Primal residual =  4.25869619208  , Dual Residual =  15.9054913618
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  61.8729999065 seconds And Primal residual =  3.08283786157  , Dual Residual =  11.3212273577
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.6619999409 seconds And Primal residual =  2.23725941522  , Dual Residual =  8.13278860322
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  58.6589999199 seconds And Primal residual =  1.63232687395  , Dual Residual =  5.86290790426
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  58.7539999485 seconds And Primal residual =  1.19702086167  , Dual Residual =  4.22306746029
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  58.7119998932 seconds And Primal residual =  0.880411264049  , Dual Residual =  3.02889270018
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  58.4589998722 seconds And Primal residual =  0.647756042196  , Dual Residual =  2.15808718137
+	 	 ADMM finished in 773.183000088 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.99956
+	 	 	 Test Data Accuracy =  0.8094
+	 For lambda =  0.4
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  58.9500000477 seconds And Primal residual =  76.2233016519  , Dual Residual =  275.546691161
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.375 seconds And Primal residual =  43.1987107764  , Dual Residual =  140.77100203
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.0629999638 seconds And Primal residual =  12.2663630135  , Dual Residual =  121.014130117
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  58.6300001144 seconds And Primal residual =  10.6939560877  , Dual Residual =  59.036618201
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.0590000153 seconds And Primal residual =  8.70712100856  , Dual Residual =  37.90298272
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  58.7130000591 seconds And Primal residual =  6.64023832164  , Dual Residual =  25.4249362137
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  58.8929998875 seconds And Primal residual =  4.89360573588  , Dual Residual =  17.3963471411
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  58.6340000629 seconds And Primal residual =  3.54865157029  , Dual Residual =  12.0537484411
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.8020000458 seconds And Primal residual =  2.56147753443  , Dual Residual =  8.40524895381
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  62.0439999104 seconds And Primal residual =  1.8490872367  , Dual Residual =  5.85822502313
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  58.878000021 seconds And Primal residual =  1.33617637067  , Dual Residual =  4.05361165695
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  58.6949999332 seconds And Primal residual =  0.96446203339  , Dual Residual =  2.76884650696
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  58.8330001831 seconds And Primal residual =  0.693490187971  , Dual Residual =  1.85846556184
+	 	 ADMM finished in 771.003999949 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.99904
+	 	 	 Test Data Accuracy =  0.8147
+	 For lambda =  0.45
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.2760000229 seconds And Primal residual =  74.7801420979  , Dual Residual =  286.618412986
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.1759998798 seconds And Primal residual =  50.5676647631  , Dual Residual =  136.105898619
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.2179999352 seconds And Primal residual =  13.5932115084  , Dual Residual =  134.629374063
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  58.6890001297 seconds And Primal residual =  11.2997619753  , Dual Residual =  66.508041325
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  58.6890001297 seconds And Primal residual =  9.43542281467  , Dual Residual =  42.6734778498
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.0289998055 seconds And Primal residual =  7.36590472673  , Dual Residual =  28.1170824117
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  58.9600000381 seconds And Primal residual =  5.50480272  , Dual Residual =  18.7899961401
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  63.9600000381 seconds And Primal residual =  4.01813200775  , Dual Residual =  12.6717897465
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.8579998016 seconds And Primal residual =  2.89787983913  , Dual Residual =  8.56507023651
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  58.5869998932 seconds And Primal residual =  2.07779447161  , Dual Residual =  5.76798330053
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  58.7630000114 seconds And Primal residual =  1.48524207544  , Dual Residual =  3.83472557192
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  58.6879999638 seconds And Primal residual =  1.05604914296  , Dual Residual =  2.4949271776
+	 	 ADMM finished in 714.141000032 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.99848
+	 	 	 Test Data Accuracy =  0.8198
+	 For lambda =  0.5
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  58.9839999676 seconds And Primal residual =  73.4705663307  , Dual Residual =  296.715204724
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.3890001774 seconds And Primal residual =  56.2975106048  , Dual Residual =  133.891084578
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.263999939 seconds And Primal residual =  15.6265037779  , Dual Residual =  143.322142126
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.1700000763 seconds And Primal residual =  11.9340427286  , Dual Residual =  74.0796793191
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  58.7300000191 seconds And Primal residual =  10.0377341213  , Dual Residual =  47.4667040437
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  61.1489999294 seconds And Primal residual =  8.01785809786  , Dual Residual =  31.0553816483
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  58.8949999809 seconds And Primal residual =  6.10318397936  , Dual Residual =  20.329680474
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  58.7970001698 seconds And Primal residual =  4.50402637742  , Dual Residual =  13.3262412389
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.9079999924 seconds And Primal residual =  3.26101768513  , Dual Residual =  8.73016725983
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.0989999771 seconds And Primal residual =  2.33239489605  , Dual Residual =  5.69659801458
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  62.8009998798 seconds And Primal residual =  1.65357064562  , Dual Residual =  3.68931024058
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  58.9490001202 seconds And Primal residual =  1.16203066887  , Dual Residual =  2.38049759371
+	 	 ADMM finished in 716.409999847 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.99784
+	 	 	 Test Data Accuracy =  0.8265
+	 For lambda =  0.55
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.0260000229 seconds And Primal residual =  72.270485077  , Dual Residual =  305.998320388
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.6069998741 seconds And Primal residual =  60.2134496056  , Dual Residual =  133.560437602
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  61.7869999409 seconds And Primal residual =  18.5226280889  , Dual Residual =  146.8696179
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.4270000458 seconds And Primal residual =  12.7386421535  , Dual Residual =  81.7164611443
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.3239998817 seconds And Primal residual =  10.5885212937  , Dual Residual =  52.4149861261
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  61.0939998627 seconds And Primal residual =  8.58846644356  , Dual Residual =  34.1588783192
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.0970001221 seconds And Primal residual =  6.66378542136  , Dual Residual =  22.0887672783
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.2200000286 seconds And Primal residual =  4.99365528182  , Dual Residual =  14.1407836557
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.9340000153 seconds And Primal residual =  3.6492070385  , Dual Residual =  8.99477786288
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  58.9279999733 seconds And Primal residual =  2.61661693415  , Dual Residual =  5.73537021329
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  58.868999958 seconds And Primal residual =  1.84912325151  , Dual Residual =  3.74095669093
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  58.9460000992 seconds And Primal residual =  1.29234915046  , Dual Residual =  2.58895754068
+	 	 ADMM finished in 716.584000111 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.99696
+	 	 	 Test Data Accuracy =  0.8335
+	 For lambda =  0.6
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.0939998627 seconds And Primal residual =  71.1627168515  , Dual Residual =  314.5888019
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.0450000763 seconds And Primal residual =  62.6585628514  , Dual Residual =  134.178195025
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.25 seconds And Primal residual =  22.159384879  , Dual Residual =  146.986096838
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.1100001335 seconds And Primal residual =  13.811089753  , Dual Residual =  89.2512676595
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  58.7630000114 seconds And Primal residual =  11.1685406327  , Dual Residual =  57.3440479911
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  58.6229999065 seconds And Primal residual =  9.1149722601  , Dual Residual =  37.6388055614
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  58.7869999409 seconds And Primal residual =  7.19418769401  , Dual Residual =  24.1546949343
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  58.7249999046 seconds And Primal residual =  5.47924585493  , Dual Residual =  15.1796276333
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  58.9649999142 seconds And Primal residual =  4.05703573517  , Dual Residual =  9.42980161203
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  58.631000042 seconds And Primal residual =  2.93364094008  , Dual Residual =  5.94005162983
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  62.25 seconds And Primal residual =  2.08004011172  , Dual Residual =  4.03556990292
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  58.6960000992 seconds And Primal residual =  1.45189354227  , Dual Residual =  3.13307055661
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  58.8199999332 seconds And Primal residual =  1.00100252704  , Dual Residual =  2.72898901103
+	 	 ADMM finished in 771.171999931 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.99636
+	 	 	 Test Data Accuracy =  0.8378
+	 For lambda =  0.65
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.2730000019 seconds And Primal residual =  70.135627081  , Dual Residual =  322.595431868
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.5299999714 seconds And Primal residual =  64.184061591  , Dual Residual =  135.247173001
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.6529998779 seconds And Primal residual =  26.1597283616  , Dual Residual =  145.908484404
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.9329998493 seconds And Primal residual =  15.196002408  , Dual Residual =  96.4943548029
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.129999876 seconds And Primal residual =  11.8612013099  , Dual Residual =  62.1694897939
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.4229998589 seconds And Primal residual =  9.63044964475  , Dual Residual =  41.3685848857
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.1529998779 seconds And Primal residual =  7.69950161521  , Dual Residual =  26.575082398
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.123000145 seconds And Primal residual =  5.96283649887  , Dual Residual =  16.5509843582
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.0590000153 seconds And Primal residual =  4.48010868017  , Dual Residual =  10.1044408723
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.2939999104 seconds And Primal residual =  3.2754077029  , Dual Residual =  6.36642338976
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.1579999924 seconds And Primal residual =  2.33975029433  , Dual Residual =  4.59915517467
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.3329999447 seconds And Primal residual =  1.63820235259  , Dual Residual =  3.95852872362
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.3680000305 seconds And Primal residual =  1.13084262904  , Dual Residual =  3.69864874813
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  62.885999918 seconds And Primal residual =  0.779475880149  , Dual Residual =  3.46537471343
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.1740000248 seconds And Primal residual =  0.54811622944  , Dual Residual =  3.1713750864
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.3619999886 seconds And Primal residual =  0.405937775992  , Dual Residual =  2.82267754305
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.4460000992 seconds And Primal residual =  0.324428420734  , Dual Residual =  2.44372685778
+	 	 ADMM finished in 1015.46600008 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.99532
+	 	 	 Test Data Accuracy =  0.8422
+	 For lambda =  0.7
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.1989998817 seconds And Primal residual =  69.1805757152  , Dual Residual =  330.102930135
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.4330000877 seconds And Primal residual =  65.084661148  , Dual Residual =  136.821910136
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.6240000725 seconds And Primal residual =  29.9703921636  , Dual Residual =  144.988961724
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.2589998245 seconds And Primal residual =  16.8572994152  , Dual Residual =  102.645296005
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.0269999504 seconds And Primal residual =  12.7138695518  , Dual Residual =  66.8869037722
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.1749999523 seconds And Primal residual =  10.1528714978  , Dual Residual =  45.2591027928
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  63.5439999104 seconds And Primal residual =  8.1735450972  , Dual Residual =  29.4668472377
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.0699999332 seconds And Primal residual =  6.43718106805  , Dual Residual =  18.3867275476
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.1320002079 seconds And Primal residual =  4.91897485304  , Dual Residual =  11.1537227756
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.1549999714 seconds And Primal residual =  3.65057467892  , Dual Residual =  7.06049417279
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.0809998512 seconds And Primal residual =  2.64010251556  , Dual Residual =  5.36439817444
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  62.4470000267 seconds And Primal residual =  1.8633048462  , Dual Residual =  4.92794305452
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.0480000973 seconds And Primal residual =  1.29361660887  , Dual Residual =  4.78806869092
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.1800000668 seconds And Primal residual =  0.898259189921  , Dual Residual =  4.5582671427
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.0599999428 seconds And Primal residual =  0.642805900222  , Dual Residual =  4.19209893421
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  58.9979999065 seconds And Primal residual =  0.49156961026  , Dual Residual =  3.73122768296
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.0999999046 seconds And Primal residual =  0.408233547511  , Dual Residual =  3.22457556821
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.0279998779 seconds And Primal residual =  0.360267628633  , Dual Residual =  2.710520648
+	 	 ADMM finished in 1075.954 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.99404
+	 	 	 Test Data Accuracy =  0.8463
+	 For lambda =  0.75
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.2979998589 seconds And Primal residual =  68.2911634508  , Dual Residual =  337.180904158
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.5519998074 seconds And Primal residual =  65.4180362983  , Dual Residual =  138.989956145
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.6819999218 seconds And Primal residual =  33.2207504698  , Dual Residual =  144.492737094
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.4400000572 seconds And Primal residual =  18.7392968384  , Dual Residual =  107.530578467
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.4680001736 seconds And Primal residual =  13.7833448248  , Dual Residual =  71.4884761484
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.2570002079 seconds And Primal residual =  10.7322143091  , Dual Residual =  49.2099169241
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.378000021 seconds And Primal residual =  8.61715522887  , Dual Residual =  32.7411847878
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.2769999504 seconds And Primal residual =  6.88959553121  , Dual Residual =  20.7112822136
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.4079999924 seconds And Primal residual =  5.36806084871  , Dual Residual =  12.6379953215
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.2920000553 seconds And Primal residual =  4.05365097703  , Dual Residual =  8.04459598833
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.2509999275 seconds And Primal residual =  2.97173901414  , Dual Residual =  6.28319437522
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.3519999981 seconds And Primal residual =  2.12214309654  , Dual Residual =  5.99887511845
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  63.4100000858 seconds And Primal residual =  1.48601583716  , Dual Residual =  5.96802998574
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.3169999123 seconds And Primal residual =  1.03862890797  , Dual Residual =  5.75747083367
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  63.4079999924 seconds And Primal residual =  0.751468531887  , Dual Residual =  5.33175467442
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.0360000134 seconds And Primal residual =  0.587790513737  , Dual Residual =  4.75930955847
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.3609998226 seconds And Primal residual =  0.502015586749  , Dual Residual =  4.11738179944
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.1449999809 seconds And Primal residual =  0.452905629623  , Dual Residual =  3.4628471743
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  58.9429998398 seconds And Primal residual =  0.415087976532  , Dual Residual =  2.83206676363
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.239000082 seconds And Primal residual =  0.377395692392  , Dual Residual =  2.2492980441
+	 	 ADMM finished in 1198.273 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.9928
+	 	 	 Test Data Accuracy =  0.85
+	 For lambda =  0.8
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.1760001183 seconds And Primal residual =  67.459465758  , Dual Residual =  343.877580128
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.5090000629 seconds And Primal residual =  65.2766775049  , Dual Residual =  141.696504771
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.5639998913 seconds And Primal residual =  35.765034637  , Dual Residual =  144.267872604
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.3990001678 seconds And Primal residual =  20.718007397  , Dual Residual =  111.546905811
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.2739999294 seconds And Primal residual =  15.0932012752  , Dual Residual =  75.8229743875
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.2079999447 seconds And Primal residual =  11.4464875705  , Dual Residual =  53.1033598317
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  63.5870001316 seconds And Primal residual =  9.06307036314  , Dual Residual =  36.3546219676
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.1990001202 seconds And Primal residual =  7.30409352031  , Dual Residual =  23.578951296
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.4260001183 seconds And Primal residual =  5.79406257482  , Dual Residual =  14.6386180729
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.2060000896 seconds And Primal residual =  4.46729368524  , Dual Residual =  9.37281712115
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.2209999561 seconds And Primal residual =  3.33691743443  , Dual Residual =  7.31547451218
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.3369998932 seconds And Primal residual =  2.41974281846  , Dual Residual =  7.06181936038
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.0910000801 seconds And Primal residual =  1.71590919371  , Dual Residual =  7.11960618925
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  61.8289999962 seconds And Primal residual =  1.21106786572  , Dual Residual =  6.93872784757
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.1610000134 seconds And Primal residual =  0.883012092602  , Dual Residual =  6.4753370932
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.1519999504 seconds And Primal residual =  0.694817372374  , Dual Residual =  5.81927827887
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.5569999218 seconds And Primal residual =  0.597839460955  , Dual Residual =  5.06613053445
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.2329998016 seconds And Primal residual =  0.544453048911  , Dual Residual =  4.28765590334
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.25 seconds And Primal residual =  0.50368662543  , Dual Residual =  3.53170672836
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.388999939 seconds And Primal residual =  0.462152896196  , Dual Residual =  2.82713938754
+	 	 ADMM finished in 1196.46000004 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.9912
+	 	 	 Test Data Accuracy =  0.8562
+	 For lambda =  0.85
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  63.0400002003 seconds And Primal residual =  66.6744104429  , Dual Residual =  350.209659211
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  60.114000082 seconds And Primal residual =  64.8450274214  , Dual Residual =  144.683645896
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.6790001392 seconds And Primal residual =  37.6994361204  , Dual Residual =  144.147985132
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.5190000534 seconds And Primal residual =  22.6384927928  , Dual Residual =  115.195084495
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.1949999332 seconds And Primal residual =  16.5604178456  , Dual Residual =  80.039485514
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.1720001698 seconds And Primal residual =  12.3693135742  , Dual Residual =  56.8615838207
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.2879998684 seconds And Primal residual =  9.57869912639  , Dual Residual =  40.093761721
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.1530001163 seconds And Primal residual =  7.69833371415  , Dual Residual =  26.9986682311
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.2970001698 seconds And Primal residual =  6.20651010977  , Dual Residual =  17.2892803403
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.123000145 seconds And Primal residual =  4.88790215084  , Dual Residual =  11.1493267386
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  63.7000000477 seconds And Primal residual =  3.72992561045  , Dual Residual =  8.49348871
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.1000001431 seconds And Primal residual =  2.75798961246  , Dual Residual =  8.06775097007
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.4240000248 seconds And Primal residual =  1.98857222717  , Dual Residual =  8.19371549631
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.1019999981 seconds And Primal residual =  1.41673115192  , Dual Residual =  8.09779578421
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.1749999523 seconds And Primal residual =  1.03220399184  , Dual Residual =  7.66252123416
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.3069999218 seconds And Primal residual =  0.807290139471  , Dual Residual =  6.96633413953
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.1510000229 seconds And Primal residual =  0.693945504512  , Dual Residual =  6.12528906377
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.367000103 seconds And Primal residual =  0.637722434009  , Dual Residual =  5.22898553488
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.4269998074 seconds And Primal residual =  0.596963358853  , Dual Residual =  4.34259845703
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.0399999619 seconds And Primal residual =  0.554868034645  , Dual Residual =  3.50886798069
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  63.4140000343 seconds And Primal residual =  0.506461104206  , Dual Residual =  2.75376685435
+	 	 ADMM finished in 1261.70799994 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.98984
+	 	 	 Test Data Accuracy =  0.8593
+	 For lambda =  0.9
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.4179999828 seconds And Primal residual =  65.931742443  , Dual Residual =  356.214057628
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.7569999695 seconds And Primal residual =  64.2707794984  , Dual Residual =  147.745026965
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.996999979 seconds And Primal residual =  39.2012967056  , Dual Residual =  144.056857517
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.8280000687 seconds And Primal residual =  24.3048085932  , Dual Residual =  118.797523041
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.6989998817 seconds And Primal residual =  18.047574674  , Dual Residual =  84.0580826861
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.4839999676 seconds And Primal residual =  13.483256378  , Dual Residual =  60.3819085791
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  62.6630001068 seconds And Primal residual =  10.246120918  , Dual Residual =  43.7182620954
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.3860001564 seconds And Primal residual =  8.11237765156  , Dual Residual =  30.6332390684
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.6519999504 seconds And Primal residual =  6.58272753316  , Dual Residual =  20.4735861815
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.5789999962 seconds And Primal residual =  5.28961513741  , Dual Residual =  13.5182443708
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.4560000896 seconds And Primal residual =  4.13571236648  , Dual Residual =  9.97225563039
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.3410000801 seconds And Primal residual =  3.13262885017  , Dual Residual =  9.06909051844
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.501999855 seconds And Primal residual =  2.30268753258  , Dual Residual =  9.15448708713
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.8209998608 seconds And Primal residual =  1.66293603048  , Dual Residual =  9.15547181621
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.8420000076 seconds And Primal residual =  1.21668738944  , Dual Residual =  8.78707715904
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.5599999428 seconds And Primal residual =  0.942263577606  , Dual Residual =  8.09912975156
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.5140001774 seconds And Primal residual =  0.796973141458  , Dual Residual =  7.21378312231
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.6889998913 seconds And Primal residual =  0.726376100198  , Dual Residual =  6.23944516216
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.5580000877 seconds And Primal residual =  0.684356348164  , Dual Residual =  5.25312851194
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.6019999981 seconds And Primal residual =  0.644564601134  , Dual Residual =  4.30592669672
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.4129998684 seconds And Primal residual =  0.595775799158  , Dual Residual =  3.43792120279
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.5400002003 seconds And Primal residual =  0.538956991023  , Dual Residual =  2.6696336394
+	 	 ADMM finished in 1318.34500003 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.98752
+	 	 	 Test Data Accuracy =  0.8638
+	 For lambda =  0.95
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.4580001831 seconds And Primal residual =  65.2250011014  , Dual Residual =  361.912853309
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.4930000305 seconds And Primal residual =  63.6510001552  , Dual Residual =  150.779106366
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.5820000172 seconds And Primal residual =  40.4915419331  , Dual Residual =  144.016807808
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.7089998722 seconds And Primal residual =  25.5851821193  , Dual Residual =  122.325521534
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.4249999523 seconds And Primal residual =  19.4138740915  , Dual Residual =  87.903421458
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.5750000477 seconds And Primal residual =  14.6643338988  , Dual Residual =  63.7371701591
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  63.3029999733 seconds And Primal residual =  11.0739926464  , Dual Residual =  46.9260714123
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.3650000095 seconds And Primal residual =  8.63968385301  , Dual Residual =  33.9965461758
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.6909999847 seconds And Primal residual =  6.96488793752  , Dual Residual =  23.7540958168
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.6319999695 seconds And Primal residual =  5.65206398864  , Dual Residual =  16.2806217235
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.4869999886 seconds And Primal residual =  4.51879857113  , Dual Residual =  11.8084986055
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.6470000744 seconds And Primal residual =  3.52140216648  , Dual Residual =  10.1074699208
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.7200000286 seconds And Primal residual =  2.66212680418  , Dual Residual =  9.93732264434
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.6370000839 seconds And Primal residual =  1.96341627242  , Dual Residual =  10.0103514056
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.6630001068 seconds And Primal residual =  1.44548043454  , Dual Residual =  9.78317654091
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.4979999065 seconds And Primal residual =  1.10363370244  , Dual Residual =  9.19089958957
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.7210001945 seconds And Primal residual =  0.910425157335  , Dual Residual =  8.3352506177
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.8239998817 seconds And Primal residual =  0.815622785465  , Dual Residual =  7.33264796538
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.7790000439 seconds And Primal residual =  0.765076688044  , Dual Residual =  6.28114214055
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  63.382999897 seconds And Primal residual =  0.726146844028  , Dual Residual =  5.24595219425
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.6740000248 seconds And Primal residual =  0.683176786161  , Dual Residual =  4.27020963296
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.4730000496 seconds And Primal residual =  0.629854278525  , Dual Residual =  3.38755693937
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.5490000248 seconds And Primal residual =  0.567600314645  , Dual Residual =  2.6169186243
+	 	 ADMM finished in 1382.5250001 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.98464
+	 	 	 Test Data Accuracy =  0.8656
+	 For lambda =  1.0
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  58.984000206 seconds And Primal residual =  64.555711744  , Dual Residual =  367.35986847
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.373000145 seconds And Primal residual =  63.0385288822  , Dual Residual =  153.733768903
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.5720000267 seconds And Primal residual =  41.7215611635  , Dual Residual =  144.147553212
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.5080001354 seconds And Primal residual =  26.4433898387  , Dual Residual =  125.465128851
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.3589999676 seconds And Primal residual =  20.5309997515  , Dual Residual =  91.3550459177
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.3489999771 seconds And Primal residual =  15.7645175513  , Dual Residual =  66.9681592562
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.2130000591 seconds And Primal residual =  11.9647451817  , Dual Residual =  49.735053122
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.3519999981 seconds And Primal residual =  9.29032140179  , Dual Residual =  36.8196913017
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.4819998741 seconds And Primal residual =  7.43437490935  , Dual Residual =  26.5843773942
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.5750000477 seconds And Primal residual =  6.02538287847  , Dual Residual =  18.8978978256
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.362000227 seconds And Primal residual =  4.87531641365  , Dual Residual =  13.8071875949
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.4530000687 seconds And Primal residual =  3.88589789026  , Dual Residual =  11.2899975055
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.8050000668 seconds And Primal residual =  3.02614923727  , Dual Residual =  10.6085832546
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.0959999561 seconds And Primal residual =  2.29403945884  , Dual Residual =  10.6239191855
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.1560001373 seconds And Primal residual =  1.71510933294  , Dual Residual =  10.546387761
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.0190000534 seconds And Primal residual =  1.30090998058  , Dual Residual =  10.1225444973
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.743999958 seconds And Primal residual =  1.04048415463  , Dual Residual =  9.3837634978
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.5400002003 seconds And Primal residual =  0.902276124552  , Dual Residual =  8.43210872248
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.2269999981 seconds And Primal residual =  0.835046318484  , Dual Residual =  7.37464881068
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.4510002136 seconds And Primal residual =  0.797013161231  , Dual Residual =  6.28831037385
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.1879999638 seconds And Primal residual =  0.760775315674  , Dual Residual =  5.23031729866
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.3449997902 seconds And Primal residual =  0.7124681511  , Dual Residual =  4.25076773631
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.5850000381 seconds And Primal residual =  0.654745338554  , Dual Residual =  3.37592228275
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.4700000286 seconds And Primal residual =  0.591492314305  , Dual Residual =  2.61320033834
+	 	 ADMM finished in 1429.61699986 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.9816
+	 	 	 Test Data Accuracy =  0.8687
+	 For lambda =  1.05
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.0780000687 seconds And Primal residual =  63.9171713686  , Dual Residual =  372.567172216
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.5639998913 seconds And Primal residual =  62.4499563813  , Dual Residual =  156.590353465
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  62.9850001335 seconds And Primal residual =  42.9460971317  , Dual Residual =  144.515253517
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.8339998722 seconds And Primal residual =  26.9258653518  , Dual Residual =  127.987541689
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.6519999504 seconds And Primal residual =  21.3555889349  , Dual Residual =  94.2874095586
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.8110001087 seconds And Primal residual =  16.6851584117  , Dual Residual =  69.9699056782
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.5240001678 seconds And Primal residual =  12.8295307338  , Dual Residual =  52.3067327933
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.3469998837 seconds And Primal residual =  9.98187288599  , Dual Residual =  39.1164812802
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.7979998589 seconds And Primal residual =  7.97551494317  , Dual Residual =  28.806414307
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.5 seconds And Primal residual =  6.46543811548  , Dual Residual =  20.9824731703
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.3479998112 seconds And Primal residual =  5.25453828592  , Dual Residual =  15.5329210084
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.2839999199 seconds And Primal residual =  4.24081027108  , Dual Residual =  12.413393642
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.4830000401 seconds And Primal residual =  3.37096653982  , Dual Residual =  11.2070676529
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.3079998493 seconds And Primal residual =  2.62736323873  , Dual Residual =  11.0104442291
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.2130000591 seconds And Primal residual =  2.00853935393  , Dual Residual =  10.9836463038
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.2939999104 seconds And Primal residual =  1.53566751821  , Dual Residual =  10.7316456636
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.3550000191 seconds And Primal residual =  1.20428202835  , Dual Residual =  10.1704034233
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  63.486000061 seconds And Primal residual =  1.00545269647  , Dual Residual =  9.35304660076
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.3430001736 seconds And Primal residual =  0.900981604298  , Dual Residual =  8.36997605061
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.518999815 seconds And Primal residual =  0.848802365319  , Dual Residual =  7.30668338458
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.3299999237 seconds And Primal residual =  0.81406269053  , Dual Residual =  6.23040886394
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.3450000286 seconds And Primal residual =  0.776678246571  , Dual Residual =  5.19614227006
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.3329999447 seconds And Primal residual =  0.729401713673  , Dual Residual =  4.24144965348
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.253000021 seconds And Primal residual =  0.672376399216  , Dual Residual =  3.38926620331
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.4289999008 seconds And Primal residual =  0.60988289191  , Dual Residual =  2.65353199557
+	 	 ADMM finished in 1497.93999982 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.97756
+	 	 	 Test Data Accuracy =  0.8704
+	 For lambda =  1.1
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.3619999886 seconds And Primal residual =  63.3045559324  , Dual Residual =  377.541105602
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  68.5299999714 seconds And Primal residual =  61.8838746852  , Dual Residual =  159.344114093
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  74.4509999752 seconds And Primal residual =  44.1479378458  , Dual Residual =  145.208203813
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  74.6199998856 seconds And Primal residual =  27.1151318726  , Dual Residual =  129.784479463
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  73.1909999847 seconds And Primal residual =  21.9011703698  , Dual Residual =  96.5400446256
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  69.9470000267 seconds And Primal residual =  17.3575117064  , Dual Residual =  72.5150734685
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.625 seconds And Primal residual =  13.5300213924  , Dual Residual =  54.5892116159
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.7739999294 seconds And Primal residual =  10.6534504976  , Dual Residual =  41.060327841
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.5170001984 seconds And Primal residual =  8.53301882525  , Dual Residual =  30.517420873
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.4219999313 seconds And Primal residual =  6.92791903635  , Dual Residual =  22.5313309026
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.5620000362 seconds And Primal residual =  5.6652447422  , Dual Residual =  16.8179619781
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.5119998455 seconds And Primal residual =  4.62832895931  , Dual Residual =  13.2402950634
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.5889999866 seconds And Primal residual =  3.74516227104  , Dual Residual =  11.544218012
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.4340000153 seconds And Primal residual =  2.98677019832  , Dual Residual =  11.0685663732
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.6720001698 seconds And Primal residual =  2.3510294181  , Dual Residual =  11.0284498706
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.3819999695 seconds And Primal residual =  1.82647702871  , Dual Residual =  10.9351390542
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  63.0490000248 seconds And Primal residual =  1.43250046793  , Dual Residual =  10.5840480483
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.5190000534 seconds And Primal residual =  1.1603522616  , Dual Residual =  9.96192762842
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.4979999065 seconds And Primal residual =  0.996325753612  , Dual Residual =  9.13253169428
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.382999897 seconds And Primal residual =  0.90338241874  , Dual Residual =  8.17819030683
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.4420001507 seconds And Primal residual =  0.850655447571  , Dual Residual =  7.17154834898
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.4500000477 seconds And Primal residual =  0.812689481557  , Dual Residual =  6.1608069577
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.4169998169 seconds And Primal residual =  0.774353956984  , Dual Residual =  5.18401851844
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.361000061 seconds And Primal residual =  0.730805781387  , Dual Residual =  4.27475325031
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.4609999657 seconds And Primal residual =  0.679038431502  , Dual Residual =  3.45857274956
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.4570000172 seconds And Primal residual =  0.621084793353  , Dual Residual =  2.75321948436
+	 	 ADMM finished in 1618.48000002 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.97244
+	 	 	 Test Data Accuracy =  0.8716
+	 For lambda =  1.15
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.2999999523 seconds And Primal residual =  62.7162285566  , Dual Residual =  382.304804417
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.5570001602 seconds And Primal residual =  61.3404957776  , Dual Residual =  161.99756255
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.8140001297 seconds And Primal residual =  45.2711518148  , Dual Residual =  146.252887056
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.754999876 seconds And Primal residual =  27.1589196189  , Dual Residual =  130.959918949
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.7979998589 seconds And Primal residual =  22.1995165473  , Dual Residual =  98.0025174305
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.6570000648 seconds And Primal residual =  17.805910998  , Dual Residual =  74.5115083518
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.6289999485 seconds And Primal residual =  14.0588861732  , Dual Residual =  56.5841449848
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  63.7879998684 seconds And Primal residual =  11.1632041845  , Dual Residual =  42.7725453664
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.5600001812 seconds And Primal residual =  9.03752203582  , Dual Residual =  31.989130724
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.5349998474 seconds And Primal residual =  7.38422303474  , Dual Residual =  23.7662573173
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.5369999409 seconds And Primal residual =  6.09301604358  , Dual Residual =  17.708346162
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.5880000591 seconds And Primal residual =  5.0281094527  , Dual Residual =  13.7455476895
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.4469997883 seconds And Primal residual =  4.13093241122  , Dual Residual =  11.6807044773
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.370000124 seconds And Primal residual =  3.37253639121  , Dual Residual =  10.8875100614
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.4759998322 seconds And Primal residual =  2.73055975135  , Dual Residual =  10.7087019341
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.5590000153 seconds And Primal residual =  2.19031984962  , Dual Residual =  10.6651715909
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.6180000305 seconds And Primal residual =  1.7443897209  , Dual Residual =  10.489404305
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.7100000381 seconds And Primal residual =  1.40717981198  , Dual Residual =  10.0819886046
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.5349998474 seconds And Primal residual =  1.17220976919  , Dual Residual =  9.46275348355
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.4579999447 seconds And Primal residual =  1.01502636537  , Dual Residual =  8.6947383813
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.5780000687 seconds And Primal residual =  0.921033850306  , Dual Residual =  7.83329201685
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.5210001469 seconds And Primal residual =  0.8595390857  , Dual Residual =  6.91987397627
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.6340000629 seconds And Primal residual =  0.81370584626  , Dual Residual =  6.00124157668
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.5 seconds And Primal residual =  0.770421361236  , Dual Residual =  5.11093737698
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  60.2100000381 seconds And Primal residual =  0.725423465338  , Dual Residual =  4.27776515913
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.4659998417 seconds And Primal residual =  0.675992359616  , Dual Residual =  3.52588150231
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  59.8289999962 seconds And Primal residual =  0.621399761547  , Dual Residual =  2.87335913427
+	 	 ADMM finished in 1618.34200001 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.96404
+	 	 	 Test Data Accuracy =  0.8692
+	 For lambda =  1.2
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.2070000172 seconds And Primal residual =  62.1528502465  , Dual Residual =  386.887420138
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.2920000553 seconds And Primal residual =  60.8183837456  , Dual Residual =  164.553250851
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.9709999561 seconds And Primal residual =  46.2404163294  , Dual Residual =  147.614039357
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.4559998512 seconds And Primal residual =  27.1790458659  , Dual Residual =  131.615504579
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.3469998837 seconds And Primal residual =  22.3116335708  , Dual Residual =  98.8263217688
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.3230001926 seconds And Primal residual =  18.0537327715  , Dual Residual =  75.9137641841
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.3280000687 seconds And Primal residual =  14.3924555422  , Dual Residual =  58.1920596658
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.367000103 seconds And Primal residual =  11.54968282  , Dual Residual =  44.2692374505
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  60.2860000134 seconds And Primal residual =  9.40338891017  , Dual Residual =  33.2963653764
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.7170000076 seconds And Primal residual =  7.76158894705  , Dual Residual =  24.8910407512
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.2980000973 seconds And Primal residual =  6.45747938029  , Dual Residual =  18.6454054566
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.2909998894 seconds And Primal residual =  5.39670389961  , Dual Residual =  14.3047056642
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  63.6540000439 seconds And Primal residual =  4.49629721182  , Dual Residual =  11.7934225309
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.2490000725 seconds And Primal residual =  3.73702276823  , Dual Residual =  10.6530471836
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.4189999104 seconds And Primal residual =  3.10263241392  , Dual Residual =  10.2649276592
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.8529999256 seconds And Primal residual =  2.57528470081  , Dual Residual =  10.1245804607
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.6130001545 seconds And Primal residual =  2.13453041476  , Dual Residual =  9.96197549279
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.512999773 seconds And Primal residual =  1.77970087063  , Dual Residual =  9.67459996802
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  61.7820000648 seconds And Primal residual =  1.49795302589  , Dual Residual =  9.23628512079
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.3710000515 seconds And Primal residual =  1.29561496868  , Dual Residual =  8.65111025882
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.2430000305 seconds And Primal residual =  1.13906935635  , Dual Residual =  7.97055460507
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.3470001221 seconds And Primal residual =  1.01670072074  , Dual Residual =  7.23480626929
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.6289999485 seconds And Primal residual =  0.930255950555  , Dual Residual =  6.46649620711
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.6279997826 seconds And Primal residual =  0.853737434304  , Dual Residual =  5.69412988902
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.3310000896 seconds And Primal residual =  0.790783684969  , Dual Residual =  4.94791238611
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.1309998035 seconds And Primal residual =  0.732806643937  , Dual Residual =  4.24948797219
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  63.7539999485 seconds And Primal residual =  0.679067511114  , Dual Residual =  3.61778298732
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  59.6770000458 seconds And Primal residual =  0.622267983492  , Dual Residual =  3.07204251403
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  59.3609998226 seconds And Primal residual =  0.564704329486  , Dual Residual =  2.61283068048
+	 	 ADMM finished in 1740.68899989 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.95432
+	 	 	 Test Data Accuracy =  0.8688
+	 For lambda =  1.25
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  64.2520000935 seconds And Primal residual =  61.6132063831  , Dual Residual =  391.299565697
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.3869998455 seconds And Primal residual =  60.3161289873  , Dual Residual =  167.023693158
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.9499998093 seconds And Primal residual =  46.983139966  , Dual Residual =  149.228501924
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.7750000954 seconds And Primal residual =  27.2817063747  , Dual Residual =  131.8964747
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.9960000515 seconds And Primal residual =  22.3006053173  , Dual Residual =  99.1613227983
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.5299999714 seconds And Primal residual =  18.1372251233  , Dual Residual =  76.7884178107
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.3179998398 seconds And Primal residual =  14.5565939353  , Dual Residual =  59.4509010091
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.3280000687 seconds And Primal residual =  11.7873168425  , Dual Residual =  45.5255649404
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  63.6819999218 seconds And Primal residual =  9.68141983402  , Dual Residual =  34.5078037653
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.3580000401 seconds And Primal residual =  8.03074725143  , Dual Residual =  26.121610941
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.3900001049 seconds And Primal residual =  6.72220478044  , Dual Residual =  19.8267157299
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.3429999352 seconds And Primal residual =  5.6775885581  , Dual Residual =  15.2688389758
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.3370001316 seconds And Primal residual =  4.80287687577  , Dual Residual =  12.2833102839
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.6849999428 seconds And Primal residual =  4.07860976262  , Dual Residual =  10.651539942
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  61.8339998722 seconds And Primal residual =  3.45509477693  , Dual Residual =  9.91553104761
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.7860000134 seconds And Primal residual =  2.93112601833  , Dual Residual =  9.59933485806
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.3710000515 seconds And Primal residual =  2.49128869171  , Dual Residual =  9.35059000717
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  63.5769999027 seconds And Primal residual =  2.13660604133  , Dual Residual =  9.0622668895
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.2999999523 seconds And Primal residual =  1.85618831652  , Dual Residual =  8.6944715777
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.5720000267 seconds And Primal residual =  1.63048060312  , Dual Residual =  8.23440431669
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.4059998989 seconds And Primal residual =  1.44856090094  , Dual Residual =  7.70074245187
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.7319998741 seconds And Primal residual =  1.2935747178  , Dual Residual =  7.12555533689
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.7129998207 seconds And Primal residual =  1.16794224045  , Dual Residual =  6.52701361285
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.4050002098 seconds And Primal residual =  1.0628837595  , Dual Residual =  5.9177789963
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.3699998856 seconds And Primal residual =  0.972536360733  , Dual Residual =  5.30710803647
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.376999855 seconds And Primal residual =  0.896405657109  , Dual Residual =  4.71687812628
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  59.2799999714 seconds And Primal residual =  0.823427986079  , Dual Residual =  4.16238401534
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  59.2039999962 seconds And Primal residual =  0.75358861909  , Dual Residual =  3.66097663684
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  59.4800000191 seconds And Primal residual =  0.689087856631  , Dual Residual =  3.21338938475
+	 	 At Iteration =  30
+	 	 	 Iteration  30  took time  59.2300000191 seconds And Primal residual =  0.630751985841  , Dual Residual =  2.82029229285
+	 	 ADMM finished in 1805.29200006 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.94044
+	 	 	 Test Data Accuracy =  0.8649
+	 For lambda =  1.3
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.5239999294 seconds And Primal residual =  61.0943227  , Dual Residual =  395.54369941
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.9879999161 seconds And Primal residual =  59.8325959957  , Dual Residual =  169.422552663
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  60.1579999924 seconds And Primal residual =  47.4602459758  , Dual Residual =  151.03418646
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  60.2049999237 seconds And Primal residual =  27.5295341637  , Dual Residual =  131.924105562
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  63.7349998951 seconds And Primal residual =  22.2324792718  , Dual Residual =  99.2396823141
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.8600001335 seconds And Primal residual =  18.1043968551  , Dual Residual =  77.2510095417
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.6870000362 seconds And Primal residual =  14.582572223  , Dual Residual =  60.4781408492
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.8029999733 seconds And Primal residual =  11.9069072781  , Dual Residual =  46.6602555397
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.8629999161 seconds And Primal residual =  9.86717351262  , Dual Residual =  35.6330300134
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.6900000572 seconds And Primal residual =  8.22701575138  , Dual Residual =  27.3450721332
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.6850001812 seconds And Primal residual =  6.90954856885  , Dual Residual =  21.2169869913
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.9030001163 seconds And Primal residual =  5.84572837007  , Dual Residual =  16.6707835956
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.7950000763 seconds And Primal residual =  5.01212373075  , Dual Residual =  13.3306127784
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  60.2160000801 seconds And Primal residual =  4.32059391959  , Dual Residual =  11.1112362558
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.8539998531 seconds And Primal residual =  3.72350457036  , Dual Residual =  9.90772948054
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.7920000553 seconds And Primal residual =  3.22543084199  , Dual Residual =  9.27641356883
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.7160000801 seconds And Primal residual =  2.81650431671  , Dual Residual =  8.85653581921
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.876999855 seconds And Primal residual =  2.46594522691  , Dual Residual =  8.49632836861
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.6259999275 seconds And Primal residual =  2.17321802181  , Dual Residual =  8.14166600248
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.5929999352 seconds And Primal residual =  1.91915521472  , Dual Residual =  7.75562803118
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.4550001621 seconds And Primal residual =  1.70858290605  , Dual Residual =  7.32057536101
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.8470001221 seconds And Primal residual =  1.541153521  , Dual Residual =  6.83573084807
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.6419999599 seconds And Primal residual =  1.40559863693  , Dual Residual =  6.32208906183
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.7599999905 seconds And Primal residual =  1.28929153291  , Dual Residual =  5.79745661809
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  62.0420000553 seconds And Primal residual =  1.18749233654  , Dual Residual =  5.29216055143
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.6809999943 seconds And Primal residual =  1.10359362891  , Dual Residual =  4.80179979271
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  59.8849999905 seconds And Primal residual =  1.02217984804  , Dual Residual =  4.32788616812
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  62.5719997883 seconds And Primal residual =  0.948824719158  , Dual Residual =  3.89838623672
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  59.9740002155 seconds And Primal residual =  0.882239429902  , Dual Residual =  3.51163885071
+	 	 At Iteration =  30
+	 	 	 Iteration  30  took time  59.5850000381 seconds And Primal residual =  0.819626718158  , Dual Residual =  3.17284537835
+	 	 At Iteration =  31
+	 	 	 Iteration  31  took time  62.7709999084 seconds And Primal residual =  0.756728082423  , Dual Residual =  2.89363086468
+	 	 ADMM finished in 1871.36400008 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.92188
+	 	 	 Test Data Accuracy =  0.859
+	 For lambda =  1.35
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.5529999733 seconds And Primal residual =  60.594026742  , Dual Residual =  399.633194674
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.9520001411 seconds And Primal residual =  59.3660301024  , Dual Residual =  171.747337723
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  60.0260000229 seconds And Primal residual =  47.6945879753  , Dual Residual =  152.936349254
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.864000082 seconds And Primal residual =  27.9583533153  , Dual Residual =  131.873986634
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.9700000286 seconds And Primal residual =  22.1438738096  , Dual Residual =  99.2030962702
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.7690000534 seconds And Primal residual =  17.998744802  , Dual Residual =  77.482491045
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.5960001945 seconds And Primal residual =  14.516030705  , Dual Residual =  61.3841800342
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.6960000992 seconds And Primal residual =  11.9414887777  , Dual Residual =  47.7649069945
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.5640001297 seconds And Primal residual =  9.97686194028  , Dual Residual =  36.7891836999
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.4519999027 seconds And Primal residual =  8.36653942078  , Dual Residual =  28.6175541015
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.6980001926 seconds And Primal residual =  7.04104983637  , Dual Residual =  22.7015703014
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.748000145 seconds And Primal residual =  5.97835370647  , Dual Residual =  18.1633943897
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.7400000095 seconds And Primal residual =  5.14670121721  , Dual Residual =  14.6446946563
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.8489999771 seconds And Primal residual =  4.46951680603  , Dual Residual =  12.0867398558
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.6440000534 seconds And Primal residual =  3.88914373894  , Dual Residual =  10.4959260173
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.6599998474 seconds And Primal residual =  3.40080624172  , Dual Residual =  9.52404287088
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.6689999104 seconds And Primal residual =  3.00521228533  , Dual Residual =  8.82852345274
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.6470000744 seconds And Primal residual =  2.66646941448  , Dual Residual =  8.30270086622
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.7929999828 seconds And Primal residual =  2.37959764649  , Dual Residual =  7.88553659752
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.7839999199 seconds And Primal residual =  2.13825393342  , Dual Residual =  7.45594177899
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.9060001373 seconds And Primal residual =  1.93789373972  , Dual Residual =  6.99600653423
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.5520000458 seconds And Primal residual =  1.76583204184  , Dual Residual =  6.52315303552
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.6699998379 seconds And Primal residual =  1.62061540406  , Dual Residual =  6.05795861244
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.5429999828 seconds And Primal residual =  1.49271504415  , Dual Residual =  5.60789219478
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.5609998703 seconds And Primal residual =  1.37487499376  , Dual Residual =  5.18998167815
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.6340000629 seconds And Primal residual =  1.2738201989  , Dual Residual =  4.78567316284
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  59.6440000534 seconds And Primal residual =  1.18698250347  , Dual Residual =  4.3906065712
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  59.7569999695 seconds And Primal residual =  1.10896831665  , Dual Residual =  4.02329367969
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  60.0600001812 seconds And Primal residual =  1.03914511916  , Dual Residual =  3.70162264337
+	 	 At Iteration =  30
+	 	 	 Iteration  30  took time  59.8559999466 seconds And Primal residual =  0.970833027422  , Dual Residual =  3.42797477442
+	 	 At Iteration =  31
+	 	 	 Iteration  31  took time  59.6869997978 seconds And Primal residual =  0.908497968188  , Dual Residual =  3.19800733612
+	 	 At Iteration =  32
+	 	 	 Iteration  32  took time  59.5910000801 seconds And Primal residual =  0.849958935553  , Dual Residual =  2.99998495784
+	 	 At Iteration =  33
+	 	 	 Iteration  33  took time  59.6169998646 seconds And Primal residual =  0.793104754976  , Dual Residual =  2.83013299097
+	 	 ADMM finished in 1976.7809999 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.9038
+	 	 	 Test Data Accuracy =  0.8521
+	 For lambda =  1.4
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  58.9100000858 seconds And Primal residual =  60.1116395068  , Dual Residual =  403.583425822
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.6840000153 seconds And Primal residual =  58.9173710036  , Dual Residual =  174.011566581
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  62.4130001068 seconds And Primal residual =  47.7253791937  , Dual Residual =  154.871977042
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.5910000801 seconds And Primal residual =  28.5720704375  , Dual Residual =  131.931410211
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  60.1499998569 seconds And Primal residual =  22.066265031  , Dual Residual =  99.1446588313
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.7249999046 seconds And Primal residual =  17.8632782127  , Dual Residual =  77.6229175911
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.4530000687 seconds And Primal residual =  14.3854570492  , Dual Residual =  62.2328024321
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.5329999924 seconds And Primal residual =  11.9000733394  , Dual Residual =  48.8798528423
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.3550000191 seconds And Primal residual =  10.0207579891  , Dual Residual =  37.9605010362
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  60.5789999962 seconds And Primal residual =  8.45652099947  , Dual Residual =  29.9589195556
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.9019999504 seconds And Primal residual =  7.14024766489  , Dual Residual =  24.1774635606
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.2239999771 seconds And Primal residual =  6.07031381138  , Dual Residual =  19.7672582953
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  60.0820000172 seconds And Primal residual =  5.24474066805  , Dual Residual =  16.1402815417
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.375 seconds And Primal residual =  4.56717655587  , Dual Residual =  13.3409389096
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.3159999847 seconds And Primal residual =  3.99334090138  , Dual Residual =  11.4717742189
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.6319999695 seconds And Primal residual =  3.5146283976  , Dual Residual =  10.1888222973
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.8229999542 seconds And Primal residual =  3.09681434198  , Dual Residual =  9.29961893842
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.7950000763 seconds And Primal residual =  2.75423796808  , Dual Residual =  8.55344124753
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.2720000744 seconds And Primal residual =  2.47462940281  , Dual Residual =  7.89786030365
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.1779999733 seconds And Primal residual =  2.24930154217  , Dual Residual =  7.30655113043
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.4270000458 seconds And Primal residual =  2.05823785001  , Dual Residual =  6.76052479939
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.521999836 seconds And Primal residual =  1.88489332818  , Dual Residual =  6.27172928337
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.6620001793 seconds And Primal residual =  1.73369498269  , Dual Residual =  5.8334275607
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.8120000362 seconds And Primal residual =  1.60335238077  , Dual Residual =  5.39629273096
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.9579999447 seconds And Primal residual =  1.48906611298  , Dual Residual =  4.97762477683
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.4250001907 seconds And Primal residual =  1.38934066115  , Dual Residual =  4.58696824131
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  59.3819999695 seconds And Primal residual =  1.29823127749  , Dual Residual =  4.23465555015
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  59.9279999733 seconds And Primal residual =  1.21662611551  , Dual Residual =  3.92963552506
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  59.486000061 seconds And Primal residual =  1.14046369541  , Dual Residual =  3.67244980119
+	 	 At Iteration =  30
+	 	 	 Iteration  30  took time  59.8090000153 seconds And Primal residual =  1.0705136201  , Dual Residual =  3.45880035584
+	 	 At Iteration =  31
+	 	 	 Iteration  31  took time  59.3410000801 seconds And Primal residual =  1.00630504929  , Dual Residual =  3.2776766164
+	 	 At Iteration =  32
+	 	 	 Iteration  32  took time  59.6259999275 seconds And Primal residual =  0.945340446922  , Dual Residual =  3.12900443557
+	 	 At Iteration =  33
+	 	 	 Iteration  33  took time  59.3190000057 seconds And Primal residual =  0.889305061944  , Dual Residual =  3.00172533987
+	 	 At Iteration =  34
+	 	 	 Iteration  34  took time  59.2969999313 seconds And Primal residual =  0.837478276547  , Dual Residual =  2.88548666047
+	 	 ADMM finished in 2034.96000004 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.88208
+	 	 	 Test Data Accuracy =  0.8418
+	 For lambda =  1.45
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.4649999142 seconds And Primal residual =  59.6465166962  , Dual Residual =  407.406200078
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.6589999199 seconds And Primal residual =  58.4845129884  , Dual Residual =  176.215789611
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.6619999409 seconds And Primal residual =  47.5876258525  , Dual Residual =  156.809441731
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.9700000286 seconds And Primal residual =  29.3438446242  , Dual Residual =  132.217084054
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.8850002289 seconds And Primal residual =  22.0214426332  , Dual Residual =  99.1463540499
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  60.1559998989 seconds And Primal residual =  17.7181967913  , Dual Residual =  77.749417641
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.8619999886 seconds And Primal residual =  14.2170347985  , Dual Residual =  63.1339396282
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  60.0090000629 seconds And Primal residual =  11.8065619742  , Dual Residual =  50.0231045799
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.8040001392 seconds And Primal residual =  10.0127181147  , Dual Residual =  39.2198851095
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  63.4700000286 seconds And Primal residual =  8.50320573884  , Dual Residual =  31.3715794741
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.7269999981 seconds And Primal residual =  7.21155934603  , Dual Residual =  25.7586859002
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.5499999523 seconds And Primal residual =  6.14654821369  , Dual Residual =  21.3903128722
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.8819999695 seconds And Primal residual =  5.30806170613  , Dual Residual =  17.714171305
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.6050000191 seconds And Primal residual =  4.63981537654  , Dual Residual =  14.7411301914
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.9699997902 seconds And Primal residual =  4.06820705977  , Dual Residual =  12.6288171814
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.7000000477 seconds And Primal residual =  3.57345801595  , Dual Residual =  11.1555291378
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.8949999809 seconds And Primal residual =  3.16054924572  , Dual Residual =  10.0472446402
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.9319999218 seconds And Primal residual =  2.82209481491  , Dual Residual =  9.06159906632
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.7690000534 seconds And Primal residual =  2.53312442635  , Dual Residual =  8.25097064461
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.9639999866 seconds And Primal residual =  2.2769734081  , Dual Residual =  7.60228134533
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.7770001888 seconds And Primal residual =  2.07063572471  , Dual Residual =  6.9640548252
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.8320000172 seconds And Primal residual =  1.9047188499  , Dual Residual =  6.31209546715
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.7920000553 seconds And Primal residual =  1.76920280603  , Dual Residual =  5.69062857133
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.6970000267 seconds And Primal residual =  1.64869227086  , Dual Residual =  5.153651225
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.4800000191 seconds And Primal residual =  1.54024486195  , Dual Residual =  4.70108632273
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.5149998665 seconds And Primal residual =  1.44006400381  , Dual Residual =  4.31402009225
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  59.6800000668 seconds And Primal residual =  1.35229130533  , Dual Residual =  3.97229653448
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  59.6710000038 seconds And Primal residual =  1.27156418203  , Dual Residual =  3.70073954994
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  59.6930000782 seconds And Primal residual =  1.19710325356  , Dual Residual =  3.50385139346
+	 	 At Iteration =  30
+	 	 	 Iteration  30  took time  59.6989998817 seconds And Primal residual =  1.12884782779  , Dual Residual =  3.36585959571
+	 	 At Iteration =  31
+	 	 	 Iteration  31  took time  60.0409998894 seconds And Primal residual =  1.06216729982  , Dual Residual =  3.28163995266
+	 	 At Iteration =  32
+	 	 	 Iteration  32  took time  59.7660000324 seconds And Primal residual =  0.999871556456  , Dual Residual =  3.22917939489
+	 	 At Iteration =  33
+	 	 	 Iteration  33  took time  59.8760001659 seconds And Primal residual =  0.940292591004  , Dual Residual =  3.19272064185
+	 	 At Iteration =  34
+	 	 	 Iteration  34  took time  59.8680000305 seconds And Primal residual =  0.884815587282  , Dual Residual =  3.1511089671
+	 	 At Iteration =  35
+	 	 	 Iteration  35  took time  60.0429999828 seconds And Primal residual =  0.835650911825  , Dual Residual =  3.09831595159
+	 	 At Iteration =  36
+	 	 	 Iteration  36  took time  60.9309999943 seconds And Primal residual =  0.790852251997  , Dual Residual =  3.03552972988
+	 	 At Iteration =  37
+	 	 	 Iteration  37  took time  60.1629998684 seconds And Primal residual =  0.748632338969  , Dual Residual =  2.95443374347
+	 	 At Iteration =  38
+	 	 	 Iteration  38  took time  59.9349999428 seconds And Primal residual =  0.711497952038  , Dual Residual =  2.86030079093
+	 	 ADMM finished in 2284.16499996 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.86496
+	 	 	 Test Data Accuracy =  0.8346
+	 For lambda =  1.5
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.5680000782 seconds And Primal residual =  59.1980895247  , Dual Residual =  411.112413591
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.9869999886 seconds And Primal residual =  58.0660669912  , Dual Residual =  178.356543588
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  63.9149999619 seconds And Primal residual =  47.3449641877  , Dual Residual =  158.724721401
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  60.3690001965 seconds And Primal residual =  30.2397548587  , Dual Residual =  132.837835843
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  60.1240000725 seconds And Primal residual =  22.0209463168  , Dual Residual =  99.2511511419
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  60.2139999866 seconds And Primal residual =  17.5825680181  , Dual Residual =  77.9545827612
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.8329999447 seconds And Primal residual =  14.0269376121  , Dual Residual =  64.1559516583
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.7720000744 seconds And Primal residual =  11.682198635  , Dual Residual =  51.3057355571
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.7690000534 seconds And Primal residual =  9.97129977998  , Dual Residual =  40.5706445387
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  60.0750000477 seconds And Primal residual =  8.52312733478  , Dual Residual =  32.901885973
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.7569999695 seconds And Primal residual =  7.26839232548  , Dual Residual =  27.4105091213
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.8190000057 seconds And Primal residual =  6.20313895699  , Dual Residual =  23.1428083243
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  60.4070000648 seconds And Primal residual =  5.36918539629  , Dual Residual =  19.4383986154
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.5550000668 seconds And Primal residual =  4.69104727908  , Dual Residual =  16.3187165235
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.5370001793 seconds And Primal residual =  4.10293050663  , Dual Residual =  14.0223244962
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.7739999294 seconds And Primal residual =  3.60692650778  , Dual Residual =  12.3152147343
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.739000082 seconds And Primal residual =  3.19212216297  , Dual Residual =  10.9535132403
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.7440001965 seconds And Primal residual =  2.86225977214  , Dual Residual =  9.76239461805
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.7860000134 seconds And Primal residual =  2.59092591774  , Dual Residual =  8.66736805596
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.9880001545 seconds And Primal residual =  2.35441962234  , Dual Residual =  7.72597254726
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.993999958 seconds And Primal residual =  2.15969976017  , Dual Residual =  6.85538311799
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.7079999447 seconds And Primal residual =  1.98771026685  , Dual Residual =  6.08809943994
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.7960000038 seconds And Primal residual =  1.8355258229  , Dual Residual =  5.43150459494
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.6690001488 seconds And Primal residual =  1.70457024918  , Dual Residual =  4.87012305346
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.5380001068 seconds And Primal residual =  1.5874729353  , Dual Residual =  4.42759371887
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.7200000286 seconds And Primal residual =  1.47696804329  , Dual Residual =  4.11744934973
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  59.7539999485 seconds And Primal residual =  1.37319636844  , Dual Residual =  3.90535703775
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  60.1210000515 seconds And Primal residual =  1.28047488561  , Dual Residual =  3.75985100175
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  59.6560001373 seconds And Primal residual =  1.19661420723  , Dual Residual =  3.66891497375
+	 	 At Iteration =  30
+	 	 	 Iteration  30  took time  59.8210000992 seconds And Primal residual =  1.11782541013  , Dual Residual =  3.62369938145
+	 	 At Iteration =  31
+	 	 	 Iteration  31  took time  59.7749998569 seconds And Primal residual =  1.04561146043  , Dual Residual =  3.59340627399
+	 	 At Iteration =  32
+	 	 	 Iteration  32  took time  59.6590001583 seconds And Primal residual =  0.980120967912  , Dual Residual =  3.57091010524
+	 	 At Iteration =  33
+	 	 	 Iteration  33  took time  59.8080000877 seconds And Primal residual =  0.918535740016  , Dual Residual =  3.54494808281
+	 	 At Iteration =  34
+	 	 	 Iteration  34  took time  59.7250001431 seconds And Primal residual =  0.864095598569  , Dual Residual =  3.50315979116
+	 	 At Iteration =  35
+	 	 	 Iteration  35  took time  59.7050001621 seconds And Primal residual =  0.817348160503  , Dual Residual =  3.4403853714
+	 	 At Iteration =  36
+	 	 	 Iteration  36  took time  59.9440000057 seconds And Primal residual =  0.776054920988  , Dual Residual =  3.36593181027
+	 	 At Iteration =  37
+	 	 	 Iteration  37  took time  59.6710000038 seconds And Primal residual =  0.737098269855  , Dual Residual =  3.2838528705
+	 	 At Iteration =  38
+	 	 	 Iteration  38  took time  60.0740001202 seconds And Primal residual =  0.702125908552  , Dual Residual =  3.18790219905
+	 	 At Iteration =  39
+	 	 	 Iteration  39  took time  60.0610001087 seconds And Primal residual =  0.67162673615  , Dual Residual =  3.07491334459
+	 	 At Iteration =  40
+	 	 	 Iteration  40  took time  59.7430000305 seconds And Primal residual =  0.644785114354  , Dual Residual =  2.94807298113
+	 	 At Iteration =  41
+	 	 	 Iteration  41  took time  59.8179998398 seconds And Primal residual =  0.620159907475  , Dual Residual =  2.8097629207
+	 	 ADMM finished in 2464.75300002 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.85136
+	 	 	 Test Data Accuracy =  0.8249
+	 For lambda =  1.55
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.4349999428 seconds And Primal residual =  58.7649879375  , Dual Residual =  414.704474611
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  63.5899999142 seconds And Primal residual =  57.659536587  , Dual Residual =  180.436729302
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.7829999924 seconds And Primal residual =  47.0407984173  , Dual Residual =  160.60045962
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.9809999466 seconds And Primal residual =  31.2097364367  , Dual Residual =  133.836429774
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.7219998837 seconds And Primal residual =  22.073682805  , Dual Residual =  99.4532558011
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.7760000229 seconds And Primal residual =  17.4651788305  , Dual Residual =  78.2915723361
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  63.0659999847 seconds And Primal residual =  13.8273071821  , Dual Residual =  65.3402151411
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.7999999523 seconds And Primal residual =  11.5257164332  , Dual Residual =  52.7681034494
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  62.0339999199 seconds And Primal residual =  9.90706798038  , Dual Residual =  42.0825989506
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.7699999809 seconds And Primal residual =  8.52243040472  , Dual Residual =  34.4766366098
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.631000042 seconds And Primal residual =  7.28997340054  , Dual Residual =  29.1816749249
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.8759999275 seconds And Primal residual =  6.24781490245  , Dual Residual =  25.0250412757
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.486000061 seconds And Primal residual =  5.41581205901  , Dual Residual =  21.2532322568
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.4760000706 seconds And Primal residual =  4.73454400951  , Dual Residual =  17.9841406263
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.5499999523 seconds And Primal residual =  4.15087777364  , Dual Residual =  15.4651369671
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.4869999886 seconds And Primal residual =  3.67545541311  , Dual Residual =  13.4366883318
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  60.3840000629 seconds And Primal residual =  3.2826831882  , Dual Residual =  11.7186445985
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.6270000935 seconds And Primal residual =  2.95651098874  , Dual Residual =  10.229193736
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.5440001488 seconds And Primal residual =  2.68190691828  , Dual Residual =  8.93814544419
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.8250000477 seconds And Primal residual =  2.43956771035  , Dual Residual =  7.87995800305
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.6080000401 seconds And Primal residual =  2.22858433846  , Dual Residual =  6.96605620722
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.4719998837 seconds And Primal residual =  2.04560312693  , Dual Residual =  6.17431649918
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.7109999657 seconds And Primal residual =  1.88930414699  , Dual Residual =  5.4684292659
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.7279999256 seconds And Primal residual =  1.74493194242  , Dual Residual =  4.90361033089
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.6119999886 seconds And Primal residual =  1.61465579241  , Dual Residual =  4.48739982438
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.7400000095 seconds And Primal residual =  1.50206772663  , Dual Residual =  4.16528995376
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  59.4739999771 seconds And Primal residual =  1.39713831724  , Dual Residual =  3.9455489007
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  59.4649999142 seconds And Primal residual =  1.29572656064  , Dual Residual =  3.84498421824
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  59.5169999599 seconds And Primal residual =  1.19991736721  , Dual Residual =  3.79076835265
+	 	 At Iteration =  30
+	 	 	 Iteration  30  took time  59.5780000687 seconds And Primal residual =  1.11378200826  , Dual Residual =  3.75336243671
+	 	 At Iteration =  31
+	 	 	 Iteration  31  took time  59.4190001488 seconds And Primal residual =  1.03965608281  , Dual Residual =  3.72556887543
+	 	 At Iteration =  32
+	 	 	 Iteration  32  took time  60.0119998455 seconds And Primal residual =  0.971834507949  , Dual Residual =  3.71125477473
+	 	 At Iteration =  33
+	 	 	 Iteration  33  took time  59.7379999161 seconds And Primal residual =  0.908326083849  , Dual Residual =  3.70946033959
+	 	 At Iteration =  34
+	 	 	 Iteration  34  took time  59.7049999237 seconds And Primal residual =  0.843581472956  , Dual Residual =  3.70933122651
+	 	 At Iteration =  35
+	 	 	 Iteration  35  took time  59.632999897 seconds And Primal residual =  0.788100451844  , Dual Residual =  3.68487002597
+	 	 At Iteration =  36
+	 	 	 Iteration  36  took time  59.3400001526 seconds And Primal residual =  0.742238771715  , Dual Residual =  3.62564824422
+	 	 At Iteration =  37
+	 	 	 Iteration  37  took time  59.4270000458 seconds And Primal residual =  0.700997214591  , Dual Residual =  3.55329102252
+	 	 At Iteration =  38
+	 	 	 Iteration  38  took time  59.6130001545 seconds And Primal residual =  0.66509816629  , Dual Residual =  3.46551032494
+	 	 At Iteration =  39
+	 	 	 Iteration  39  took time  59.8440001011 seconds And Primal residual =  0.634797247137  , Dual Residual =  3.35778441343
+	 	 At Iteration =  40
+	 	 	 Iteration  40  took time  59.5680000782 seconds And Primal residual =  0.607063589987  , Dual Residual =  3.23464659757
+	 	 At Iteration =  41
+	 	 	 Iteration  41  took time  59.481000185 seconds And Primal residual =  0.581466223019  , Dual Residual =  3.10296624788
+	 	 At Iteration =  42
+	 	 	 Iteration  42  took time  59.8380000591 seconds And Primal residual =  0.560703886172  , Dual Residual =  2.95460771644
+	 	 At Iteration =  43
+	 	 	 Iteration  43  took time  59.6809999943 seconds And Primal residual =  0.54241764923  , Dual Residual =  2.79884984535
+	 	 ADMM finished in 2582.6099999 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.83716
+	 	 	 Test Data Accuracy =  0.8135
+	 For lambda =  1.6
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.2640001774 seconds And Primal residual =  58.3454998677  , Dual Residual =  418.188641089
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  62.9110000134 seconds And Primal residual =  57.2664877035  , Dual Residual =  182.467890928
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.7409999371 seconds And Primal residual =  46.7024817973  , Dual Residual =  162.432616637
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  60.4159998894 seconds And Primal residual =  32.2029305702  , Dual Residual =  135.195169197
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.6619999409 seconds And Primal residual =  22.178509388  , Dual Residual =  99.7785954911
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.5989999771 seconds And Primal residual =  17.3712820752  , Dual Residual =  78.7461102639
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  62.3389999866 seconds And Primal residual =  13.6311628151  , Dual Residual =  66.7100371252
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.5279998779 seconds And Primal residual =  11.355920271  , Dual Residual =  54.4538406363
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.4319999218 seconds And Primal residual =  9.82923213809  , Dual Residual =  43.7843383342
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.3129999638 seconds And Primal residual =  8.50310328755  , Dual Residual =  36.2597699281
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.4309999943 seconds And Primal residual =  7.30776353961  , Dual Residual =  31.076958662
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.4419999123 seconds And Primal residual =  6.28472844726  , Dual Residual =  26.9265812615
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.5039999485 seconds And Primal residual =  5.45142379472  , Dual Residual =  23.1760019348
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.625 seconds And Primal residual =  4.79444632579  , Dual Residual =  19.7653548463
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.3900001049 seconds And Primal residual =  4.25135262765  , Dual Residual =  16.8596045559
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.3840000629 seconds And Primal residual =  3.77553671261  , Dual Residual =  14.5680325995
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.3890001774 seconds And Primal residual =  3.37614236729  , Dual Residual =  12.6981777491
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.5840001106 seconds And Primal residual =  3.04047948164  , Dual Residual =  11.090851435
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  60.1789999008 seconds And Primal residual =  2.7531152384  , Dual Residual =  9.69025672008
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.506000042 seconds And Primal residual =  2.51729144086  , Dual Residual =  8.44479758301
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.6070001125 seconds And Primal residual =  2.30743424733  , Dual Residual =  7.35433736562
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.4650001526 seconds And Primal residual =  2.11354353995  , Dual Residual =  6.47775846154
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.4419999123 seconds And Primal residual =  1.94638324029  , Dual Residual =  5.7220103276
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.4210000038 seconds And Primal residual =  1.79975066866  , Dual Residual =  5.0527726549
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.3280000687 seconds And Primal residual =  1.66848058511  , Dual Residual =  4.50862076951
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.3639998436 seconds And Primal residual =  1.54696281448  , Dual Residual =  4.11975643067
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  59.2820000648 seconds And Primal residual =  1.42604970138  , Dual Residual =  3.8963598219
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  59.2599999905 seconds And Primal residual =  1.31865209895  , Dual Residual =  3.75999556131
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  59.6460001469 seconds And Primal residual =  1.2221699773  , Dual Residual =  3.65998677969
+	 	 At Iteration =  30
+	 	 	 Iteration  30  took time  59.371999979 seconds And Primal residual =  1.13274344324  , Dual Residual =  3.61231807422
+	 	 At Iteration =  31
+	 	 	 Iteration  31  took time  59.2790000439 seconds And Primal residual =  1.04747090166  , Dual Residual =  3.62433302726
+	 	 At Iteration =  32
+	 	 	 Iteration  32  took time  59.6909999847 seconds And Primal residual =  0.970668349884  , Dual Residual =  3.65056956968
+	 	 At Iteration =  33
+	 	 	 Iteration  33  took time  59.4449999332 seconds And Primal residual =  0.90218432329  , Dual Residual =  3.67390105874
+	 	 At Iteration =  34
+	 	 	 Iteration  34  took time  60.3090000153 seconds And Primal residual =  0.836198114889  , Dual Residual =  3.6951960518
+	 	 At Iteration =  35
+	 	 	 Iteration  35  took time  59.6029999256 seconds And Primal residual =  0.776538620231  , Dual Residual =  3.69682141946
+	 	 At Iteration =  36
+	 	 	 Iteration  36  took time  59.3289999962 seconds And Primal residual =  0.724079710851  , Dual Residual =  3.67426803704
+	 	 At Iteration =  37
+	 	 	 Iteration  37  took time  59.4850001335 seconds And Primal residual =  0.677649894258  , Dual Residual =  3.62972922871
+	 	 At Iteration =  38
+	 	 	 Iteration  38  took time  59.5369999409 seconds And Primal residual =  0.636400429329  , Dual Residual =  3.56456773468
+	 	 At Iteration =  39
+	 	 	 Iteration  39  took time  59.5670001507 seconds And Primal residual =  0.600700191184  , Dual Residual =  3.47905261891
+	 	 At Iteration =  40
+	 	 	 Iteration  40  took time  59.3289999962 seconds And Primal residual =  0.568243520742  , Dual Residual =  3.37757067043
+	 	 At Iteration =  41
+	 	 	 Iteration  41  took time  59.3970000744 seconds And Primal residual =  0.541802206402  , Dual Residual =  3.25798239947
+	 	 At Iteration =  42
+	 	 	 Iteration  42  took time  59.4069998264 seconds And Primal residual =  0.519066422934  , Dual Residual =  3.12406502766
+	 	 At Iteration =  43
+	 	 	 Iteration  43  took time  59.5390000343 seconds And Primal residual =  0.498980898965  , Dual Residual =  2.98428700321
+	 	 At Iteration =  44
+	 	 	 Iteration  44  took time  59.5539999008 seconds And Primal residual =  0.483946492248  , Dual Residual =  2.83245976757
+	 	 ADMM finished in 2633.01300001 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.82288
+	 	 	 Test Data Accuracy =  0.8016
+	 For lambda =  1.65
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.4409999847 seconds And Primal residual =  57.9376383708  , Dual Residual =  421.566373425
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.7470002174 seconds And Primal residual =  56.8849887416  , Dual Residual =  184.444746071
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  60.006000042 seconds And Primal residual =  46.3530459729  , Dual Residual =  164.217182711
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  59.9660000801 seconds And Primal residual =  33.159032526  , Dual Residual =  136.848607034
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  60.4010000229 seconds And Primal residual =  22.3446105107  , Dual Residual =  100.250811977
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.8079998493 seconds And Primal residual =  17.3044328523  , Dual Residual =  79.3640362799
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.6540000439 seconds And Primal residual =  13.4380808128  , Dual Residual =  68.2934788127
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  63.7039999962 seconds And Primal residual =  11.1837098908  , Dual Residual =  56.373200329
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  60.0009999275 seconds And Primal residual =  9.73873729092  , Dual Residual =  45.7198895728
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  60.0709998608 seconds And Primal residual =  8.48184595796  , Dual Residual =  38.2032725366
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.6760001183 seconds And Primal residual =  7.3103637643  , Dual Residual =  33.1262616223
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.6289999485 seconds And Primal residual =  6.30445320863  , Dual Residual =  29.0362388458
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.7120001316 seconds And Primal residual =  5.50716786474  , Dual Residual =  25.160661929
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.8249998093 seconds And Primal residual =  4.87007143264  , Dual Residual =  21.5921215967
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.8399999142 seconds And Primal residual =  4.33768742407  , Dual Residual =  18.5481152061
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.5339999199 seconds And Primal residual =  3.86584454392  , Dual Residual =  16.1137652656
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.6190001965 seconds And Primal residual =  3.47416677618  , Dual Residual =  14.0637198672
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.6610000134 seconds And Primal residual =  3.14257393637  , Dual Residual =  12.2558444676
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.6870000362 seconds And Primal residual =  2.83885313667  , Dual Residual =  10.7611413478
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.7510001659 seconds And Primal residual =  2.59210485863  , Dual Residual =  9.4122594559
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.6380000114 seconds And Primal residual =  2.39583617329  , Dual Residual =  8.08296475749
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.7699999809 seconds And Primal residual =  2.20047043899  , Dual Residual =  7.01965110994
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.7149999142 seconds And Primal residual =  2.03528178906  , Dual Residual =  6.10799663369
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.6770000458 seconds And Primal residual =  1.88001108354  , Dual Residual =  5.31268821141
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.9400000572 seconds And Primal residual =  1.73218584073  , Dual Residual =  4.72246490361
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.6539998055 seconds And Primal residual =  1.5992478742  , Dual Residual =  4.24779283791
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  59.6399998665 seconds And Primal residual =  1.47967725002  , Dual Residual =  3.89800239759
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  59.8350000381 seconds And Primal residual =  1.36552182016  , Dual Residual =  3.68401463993
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  59.882999897 seconds And Primal residual =  1.25836719988  , Dual Residual =  3.56020826294
+	 	 At Iteration =  30
+	 	 	 Iteration  30  took time  59.4949998856 seconds And Primal residual =  1.16251784277  , Dual Residual =  3.50207000744
+	 	 At Iteration =  31
+	 	 	 Iteration  31  took time  59.7840001583 seconds And Primal residual =  1.07937313766  , Dual Residual =  3.47959818015
+	 	 At Iteration =  32
+	 	 	 Iteration  32  took time  59.4170000553 seconds And Primal residual =  1.00209284255  , Dual Residual =  3.49845979368
+	 	 At Iteration =  33
+	 	 	 Iteration  33  took time  59.8109998703 seconds And Primal residual =  0.924690957649  , Dual Residual =  3.55447453217
+	 	 At Iteration =  34
+	 	 	 Iteration  34  took time  59.6729998589 seconds And Primal residual =  0.854823503928  , Dual Residual =  3.60474619573
+	 	 At Iteration =  35
+	 	 	 Iteration  35  took time  59.7840001583 seconds And Primal residual =  0.791921790424  , Dual Residual =  3.63030530256
+	 	 At Iteration =  36
+	 	 	 Iteration  36  took time  59.7220001221 seconds And Primal residual =  0.736069830864  , Dual Residual =  3.63162162991
+	 	 At Iteration =  37
+	 	 	 Iteration  37  took time  59.7369999886 seconds And Primal residual =  0.682008664373  , Dual Residual =  3.6172480035
+	 	 At Iteration =  38
+	 	 	 Iteration  38  took time  59.6540000439 seconds And Primal residual =  0.63470731625  , Dual Residual =  3.58259046378
+	 	 At Iteration =  39
+	 	 	 Iteration  39  took time  59.7030000687 seconds And Primal residual =  0.596244757401  , Dual Residual =  3.52048041101
+	 	 At Iteration =  40
+	 	 	 Iteration  40  took time  59.7400000095 seconds And Primal residual =  0.560946969044  , Dual Residual =  3.44818947628
+	 	 At Iteration =  41
+	 	 	 Iteration  41  took time  60.0729999542 seconds And Primal residual =  0.528531150785  , Dual Residual =  3.36759745799
+	 	 At Iteration =  42
+	 	 	 Iteration  42  took time  59.6690001488 seconds And Primal residual =  0.499649715019  , Dual Residual =  3.26994340232
+	 	 At Iteration =  43
+	 	 	 Iteration  43  took time  59.7349998951 seconds And Primal residual =  0.472169569046  , Dual Residual =  3.16311871081
+	 	 At Iteration =  44
+	 	 	 Iteration  44  took time  59.9179999828 seconds And Primal residual =  0.44799931693  , Dual Residual =  3.0450371481
+	 	 At Iteration =  45
+	 	 	 Iteration  45  took time  59.9680001736 seconds And Primal residual =  0.429261811411  , Dual Residual =  2.91169991096
+	 	 ADMM finished in 2701.29200006 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.80704
+	 	 	 Test Data Accuracy =  0.7855
+	 For lambda =  1.7
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.7589998245 seconds And Primal residual =  57.541746202  , Dual Residual =  424.849323313
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.8029999733 seconds And Primal residual =  56.5138686043  , Dual Residual =  186.37356944
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  60.0539999008 seconds And Primal residual =  46.0031665317  , Dual Residual =  165.956146376
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  60.228000164 seconds And Primal residual =  34.0299999881  , Dual Residual =  138.711320596
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  64.6840000153 seconds And Primal residual =  22.5838274921  , Dual Residual =  100.871859639
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.8329999447 seconds And Primal residual =  17.2667334406  , Dual Residual =  80.1916645026
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  60.114000082 seconds And Primal residual =  13.2543057447  , Dual Residual =  70.1181765846
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  62.3989999294 seconds And Primal residual =  11.0078738898  , Dual Residual =  58.5616780909
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.6500000954 seconds And Primal residual =  9.64877391205  , Dual Residual =  47.8538324339
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.6589999199 seconds And Primal residual =  8.45105435329  , Dual Residual =  40.3464338394
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.9279999733 seconds And Primal residual =  7.29109181243  , Dual Residual =  35.4207536453
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.7829999924 seconds And Primal residual =  6.32238765253  , Dual Residual =  31.3307160917
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.6510000229 seconds And Primal residual =  5.55986103344  , Dual Residual =  27.3386309549
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.7109999657 seconds And Primal residual =  4.94282345964  , Dual Residual =  23.6668943288
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.7939999104 seconds And Primal residual =  4.4287814216  , Dual Residual =  20.4563161434
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.9229998589 seconds And Primal residual =  3.95956660368  , Dual Residual =  17.8552339464
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.7790000439 seconds And Primal residual =  3.5540081618  , Dual Residual =  15.7288330814
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.6460001469 seconds And Primal residual =  3.22790212898  , Dual Residual =  13.8135745341
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.8230001926 seconds And Primal residual =  2.94986179211  , Dual Residual =  12.060186886
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.7009999752 seconds And Primal residual =  2.71737863537  , Dual Residual =  10.4833279073
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.9149999619 seconds And Primal residual =  2.50493780064  , Dual Residual =  9.11069601651
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.7779998779 seconds And Primal residual =  2.31054935081  , Dual Residual =  7.90344976852
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.8369998932 seconds And Primal residual =  2.13329618686  , Dual Residual =  6.8344437413
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.9619998932 seconds And Primal residual =  1.96583623468  , Dual Residual =  5.91439677248
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.7710001469 seconds And Primal residual =  1.809574565  , Dual Residual =  5.15338806247
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.8120000362 seconds And Primal residual =  1.65855171939  , Dual Residual =  4.57783582577
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  60.0080001354 seconds And Primal residual =  1.53201426771  , Dual Residual =  4.08236749788
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  59.7320001125 seconds And Primal residual =  1.42105664587  , Dual Residual =  3.69935040946
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  59.8259999752 seconds And Primal residual =  1.31465334724  , Dual Residual =  3.4729985297
+	 	 At Iteration =  30
+	 	 	 Iteration  30  took time  59.8190000057 seconds And Primal residual =  1.21047636093  , Dual Residual =  3.39540579074
+	 	 At Iteration =  31
+	 	 	 Iteration  31  took time  59.7550001144 seconds And Primal residual =  1.11256315073  , Dual Residual =  3.38183553207
+	 	 At Iteration =  32
+	 	 	 Iteration  32  took time  59.7650001049 seconds And Primal residual =  1.02693326544  , Dual Residual =  3.3760569593
+	 	 At Iteration =  33
+	 	 	 Iteration  33  took time  59.7999999523 seconds And Primal residual =  0.94473428449  , Dual Residual =  3.39116766851
+	 	 At Iteration =  34
+	 	 	 Iteration  34  took time  59.7410001755 seconds And Primal residual =  0.866517442587  , Dual Residual =  3.42656259433
+	 	 At Iteration =  35
+	 	 	 Iteration  35  took time  59.9189999104 seconds And Primal residual =  0.801388312631  , Dual Residual =  3.43602038973
+	 	 At Iteration =  36
+	 	 	 Iteration  36  took time  59.8360002041 seconds And Primal residual =  0.739728578315  , Dual Residual =  3.43267914374
+	 	 At Iteration =  37
+	 	 	 Iteration  37  took time  59.7850000858 seconds And Primal residual =  0.681084107398  , Dual Residual =  3.43148254461
+	 	 At Iteration =  38
+	 	 	 Iteration  38  took time  59.7319998741 seconds And Primal residual =  0.632382407156  , Dual Residual =  3.40366174196
+	 	 At Iteration =  39
+	 	 	 Iteration  39  took time  59.8120000362 seconds And Primal residual =  0.590805173741  , Dual Residual =  3.35080249471
+	 	 At Iteration =  40
+	 	 	 Iteration  40  took time  59.9499998093 seconds And Primal residual =  0.54907208083  , Dual Residual =  3.29184513526
+	 	 At Iteration =  41
+	 	 	 Iteration  41  took time  59.9079999924 seconds And Primal residual =  0.512784462953  , Dual Residual =  3.22038748089
+	 	 At Iteration =  42
+	 	 	 Iteration  42  took time  59.8789999485 seconds And Primal residual =  0.483378929338  , Dual Residual =  3.12844216811
+	 	 At Iteration =  43
+	 	 	 Iteration  43  took time  59.6879999638 seconds And Primal residual =  0.457449286873  , Dual Residual =  3.0261862023
+	 	 At Iteration =  44
+	 	 	 Iteration  44  took time  59.6920001507 seconds And Primal residual =  0.43445527242  , Dual Residual =  2.9223527088
+	 	 At Iteration =  45
+	 	 	 Iteration  45  took time  59.8459999561 seconds And Primal residual =  0.415484662244  , Dual Residual =  2.81231884876
+	 	 ADMM finished in 2707.33800006 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.78672
+	 	 	 Test Data Accuracy =  0.7673
+	 For lambda =  1.75
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  61.4430000782 seconds And Primal residual =  57.1569432967  , Dual Residual =  428.035878954
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  60.0769999027 seconds And Primal residual =  56.1526078452  , Dual Residual =  188.251182936
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  60.1349999905 seconds And Primal residual =  45.658321503  , Dual Residual =  167.651206838
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  60.2209999561 seconds And Primal residual =  34.7894587589  , Dual Residual =  140.688910607
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  60.4089999199 seconds And Primal residual =  22.9065714358  , Dual Residual =  101.695039067
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  62.6150000095 seconds And Primal residual =  17.2631542451  , Dual Residual =  81.2620631791
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  63.1989998817 seconds And Primal residual =  13.0848518108  , Dual Residual =  72.1795224578
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  60.1659998894 seconds And Primal residual =  10.8355526948  , Dual Residual =  61.0092687463
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  60.0629999638 seconds And Primal residual =  9.55407127962  , Dual Residual =  50.2456816235
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.9649999142 seconds And Primal residual =  8.40130731454  , Dual Residual =  42.7552573252
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  60.0220000744 seconds And Primal residual =  7.2710533646  , Dual Residual =  37.9045712408
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  60.2179999352 seconds And Primal residual =  6.33473311905  , Dual Residual =  33.8096350573
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  60.128000021 seconds And Primal residual =  5.60281558204  , Dual Residual =  29.741868985
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.9959998131 seconds And Primal residual =  5.01407864792  , Dual Residual =  25.9132745936
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  60.1199998856 seconds And Primal residual =  4.48463814846  , Dual Residual =  22.679657055
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.9279999733 seconds And Primal residual =  4.03439307731  , Dual Residual =  19.9805766055
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.882999897 seconds And Primal residual =  3.66185940698  , Dual Residual =  17.6162355872
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.9060001373 seconds And Primal residual =  3.34413604527  , Dual Residual =  15.5059941794
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  61.0969998837 seconds And Primal residual =  3.07891852014  , Dual Residual =  13.5661112094
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  60.8320000172 seconds And Primal residual =  2.83932957717  , Dual Residual =  11.8448244317
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  60.0360000134 seconds And Primal residual =  2.603600241  , Dual Residual =  10.4116664136
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.8740000725 seconds And Primal residual =  2.3885365269  , Dual Residual =  9.13147110823
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.9750001431 seconds And Primal residual =  2.19961871175  , Dual Residual =  7.96400546574
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.8050000668 seconds And Primal residual =  2.03969179633  , Dual Residual =  6.86429747983
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.9040000439 seconds And Primal residual =  1.89745903285  , Dual Residual =  5.87520210176
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.9349999428 seconds And Primal residual =  1.74086202928  , Dual Residual =  5.15187603424
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  59.9589998722 seconds And Primal residual =  1.59108066771  , Dual Residual =  4.63176360007
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  59.6960000992 seconds And Primal residual =  1.45807863625  , Dual Residual =  4.1701274423
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  59.8269999027 seconds And Primal residual =  1.34517404331  , Dual Residual =  3.77020132796
+	 	 At Iteration =  30
+	 	 	 Iteration  30  took time  59.8059999943 seconds And Primal residual =  1.24436354717  , Dual Residual =  3.46834127794
+	 	 At Iteration =  31
+	 	 	 Iteration  31  took time  60.0460000038 seconds And Primal residual =  1.14997507715  , Dual Residual =  3.26343408816
+	 	 At Iteration =  32
+	 	 	 Iteration  32  took time  59.9769999981 seconds And Primal residual =  1.05966780121  , Dual Residual =  3.15621250597
+	 	 At Iteration =  33
+	 	 	 Iteration  33  took time  59.9300000668 seconds And Primal residual =  0.983100729229  , Dual Residual =  3.06033350414
+	 	 At Iteration =  34
+	 	 	 Iteration  34  took time  59.9130001068 seconds And Primal residual =  0.916521972154  , Dual Residual =  2.97583172378
+	 	 At Iteration =  35
+	 	 	 Iteration  35  took time  60.3489999771 seconds And Primal residual =  0.847477473096  , Dual Residual =  2.95101704069
+	 	 At Iteration =  36
+	 	 	 Iteration  36  took time  60.0239999294 seconds And Primal residual =  0.781004754345  , Dual Residual =  2.95830048747
+	 	 At Iteration =  37
+	 	 	 Iteration  37  took time  60.0500001907 seconds And Primal residual =  0.727951892906  , Dual Residual =  2.93582604393
+	 	 At Iteration =  38
+	 	 	 Iteration  38  took time  59.8410000801 seconds And Primal residual =  0.680693981995  , Dual Residual =  2.9064405826
+	 	 ADMM finished in 2296.09099984 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.75696
+	 	 	 Test Data Accuracy =  0.7353
+	 For lambda =  1.8
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.2750000954 seconds And Primal residual =  56.7810804133  , Dual Residual =  431.121331287
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  63.7690000534 seconds And Primal residual =  55.8009546531  , Dual Residual =  190.08539198
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  60.1209998131 seconds And Primal residual =  45.3207972097  , Dual Residual =  169.301271204
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  60.0599999428 seconds And Primal residual =  35.391787027  , Dual Residual =  142.68401571
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  59.9560000896 seconds And Primal residual =  23.3130425656  , Dual Residual =  102.763686668
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.7199997902 seconds And Primal residual =  17.2927677712  , Dual Residual =  82.5741510795
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.8379998207 seconds And Primal residual =  12.9333032765  , Dual Residual =  74.4612530384
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.7929999828 seconds And Primal residual =  10.6671571385  , Dual Residual =  63.7047913302
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.7779998779 seconds And Primal residual =  9.447683448  , Dual Residual =  52.8980416454
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.6900000572 seconds And Primal residual =  8.33975788758  , Dual Residual =  45.4071751787
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.7219998837 seconds And Primal residual =  7.24355109583  , Dual Residual =  40.6096655075
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.995000124 seconds And Primal residual =  6.35074853742  , Dual Residual =  36.4445830531
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.8589999676 seconds And Primal residual =  5.64016634973  , Dual Residual =  32.2712168293
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.7749998569 seconds And Primal residual =  5.03549633948  , Dual Residual =  28.5282101318
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.8170001507 seconds And Primal residual =  4.54591945286  , Dual Residual =  25.1433969863
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.6510000229 seconds And Primal residual =  4.13036614504  , Dual Residual =  22.2124880018
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.6870000362 seconds And Primal residual =  3.77622839003  , Dual Residual =  19.6574128418
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.5580000877 seconds And Primal residual =  3.46147721868  , Dual Residual =  17.4719126746
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.7509999275 seconds And Primal residual =  3.17304793932  , Dual Residual =  15.5424055699
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.7650001049 seconds And Primal residual =  2.90936413438  , Dual Residual =  13.8410022836
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.8880000114 seconds And Primal residual =  2.69858665579  , Dual Residual =  12.1824600147
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.7130000591 seconds And Primal residual =  2.48300249213  , Dual Residual =  10.7309870387
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.7829999924 seconds And Primal residual =  2.26327887911  , Dual Residual =  9.54379268159
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.6779999733 seconds And Primal residual =  2.06515164215  , Dual Residual =  8.48725509228
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.617000103 seconds And Primal residual =  1.90380909865  , Dual Residual =  7.50143426994
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.736000061 seconds And Primal residual =  1.76893522245  , Dual Residual =  6.56987150369
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  59.8540000916 seconds And Primal residual =  1.6370977826  , Dual Residual =  5.80056920178
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  59.7910001278 seconds And Primal residual =  1.51249469113  , Dual Residual =  5.17073570394
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  59.6549999714 seconds And Primal residual =  1.40405869381  , Dual Residual =  4.59755113181
+	 	 At Iteration =  30
+	 	 	 Iteration  30  took time  59.6760001183 seconds And Primal residual =  1.31483267417  , Dual Residual =  4.05480618011
+	 	 At Iteration =  31
+	 	 	 Iteration  31  took time  59.7980000973 seconds And Primal residual =  1.23189026636  , Dual Residual =  3.57183841499
+	 	 At Iteration =  32
+	 	 	 Iteration  32  took time  59.7980000973 seconds And Primal residual =  1.14619945594  , Dual Residual =  3.22994317262
+	 	 At Iteration =  33
+	 	 	 Iteration  33  took time  59.5190000534 seconds And Primal residual =  1.07564857422  , Dual Residual =  2.92921168856
+	 	 At Iteration =  34
+	 	 	 Iteration  34  took time  59.7189998627 seconds And Primal residual =  1.01765284506  , Dual Residual =  2.65642686984
+	 	 ADMM finished in 2041.85899997 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.72936
+	 	 	 Test Data Accuracy =  0.7056
+	 For lambda =  1.85
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.4480001926 seconds And Primal residual =  56.4133646907  , Dual Residual =  434.106670761
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  59.882999897 seconds And Primal residual =  55.4590691694  , Dual Residual =  191.878480133
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  60.1510000229 seconds And Primal residual =  44.992328038  , Dual Residual =  170.915191304
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  60.2400000095 seconds And Primal residual =  35.8267436189  , Dual Residual =  144.61907747
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  60.0190000534 seconds And Primal residual =  23.796429695  , Dual Residual =  104.135456132
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  63.8320000172 seconds And Primal residual =  17.3618519405  , Dual Residual =  84.1636747244
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  60.1449999809 seconds And Primal residual =  12.8027521658  , Dual Residual =  76.9747526862
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  60.0850000381 seconds And Primal residual =  10.496350281  , Dual Residual =  66.622526648
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  60.131000042 seconds And Primal residual =  9.33175695826  , Dual Residual =  55.8059920415
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.9559998512 seconds And Primal residual =  8.26461855121  , Dual Residual =  48.3177057504
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  60.2460000515 seconds And Primal residual =  7.21052699005  , Dual Residual =  43.4772290551
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.8389999866 seconds And Primal residual =  6.3559754642  , Dual Residual =  39.2143857996
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.864000082 seconds And Primal residual =  5.64432619123  , Dual Residual =  35.1062551362
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.7690000534 seconds And Primal residual =  5.07966669448  , Dual Residual =  31.2016090804
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.8390002251 seconds And Primal residual =  4.61108566714  , Dual Residual =  27.7091508937
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.745000124 seconds And Primal residual =  4.21293778969  , Dual Residual =  24.6872144666
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.8200001717 seconds And Primal residual =  3.85919509232  , Dual Residual =  22.0915971603
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  59.8099999428 seconds And Primal residual =  3.53260617331  , Dual Residual =  19.8530011225
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  59.9489998817 seconds And Primal residual =  3.23807248907  , Dual Residual =  17.8598542271
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.9440000057 seconds And Primal residual =  2.96636156046  , Dual Residual =  16.0921133026
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.8510000706 seconds And Primal residual =  2.70242492452  , Dual Residual =  14.5356103043
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.8310000896 seconds And Primal residual =  2.46471187484  , Dual Residual =  13.1696857695
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  60.111000061 seconds And Primal residual =  2.26767694026  , Dual Residual =  11.8717013959
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.7860000134 seconds And Primal residual =  2.10712776177  , Dual Residual =  10.6438470897
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.7919998169 seconds And Primal residual =  1.97673985377  , Dual Residual =  9.46376656691
+	 	 At Iteration =  26
+	 	 	 Iteration  26  took time  59.878000021 seconds And Primal residual =  1.85206852197  , Dual Residual =  8.41395403769
+	 	 At Iteration =  27
+	 	 	 Iteration  27  took time  59.870000124 seconds And Primal residual =  1.73639398582  , Dual Residual =  7.47666871489
+	 	 At Iteration =  28
+	 	 	 Iteration  28  took time  59.878000021 seconds And Primal residual =  1.63616169446  , Dual Residual =  6.56831413075
+	 	 At Iteration =  29
+	 	 	 Iteration  29  took time  59.9230000973 seconds And Primal residual =  1.53245511384  , Dual Residual =  5.79812449846
+	 	 At Iteration =  30
+	 	 	 Iteration  30  took time  60.0529999733 seconds And Primal residual =  1.4429113708  , Dual Residual =  5.09094968724
+	 	 At Iteration =  31
+	 	 	 Iteration  31  took time  60.0080001354 seconds And Primal residual =  1.36919154951  , Dual Residual =  4.40193794049
+	 	 At Iteration =  32
+	 	 	 Iteration  32  took time  59.8259999752 seconds And Primal residual =  1.28403458317  , Dual Residual =  3.89906495967
+	 	 At Iteration =  33
+	 	 	 Iteration  33  took time  59.9059998989 seconds And Primal residual =  1.20863867302  , Dual Residual =  3.46858822928
+	 	 At Iteration =  34
+	 	 	 Iteration  34  took time  60.0069999695 seconds And Primal residual =  1.14282560212  , Dual Residual =  3.07206432846
+	 	 At Iteration =  35
+	 	 	 Iteration  35  took time  59.8389999866 seconds And Primal residual =  1.08208666596  , Dual Residual =  2.77222967059
+	 	 ADMM finished in 2107.43899989 seconds
+	 	 Result
+	 	 	 Train Data Accuracy =  0.69924
+	 	 	 Test Data Accuracy =  0.676
+	 For lambda =  1.9
+	 	 At Iteration =  1
+	 	 	 Iteration  1  took time  59.4179999828 seconds And Primal residual =  56.0540388489  , Dual Residual =  437.002793678
+	 	 At Iteration =  2
+	 	 	 Iteration  2  took time  64.2239999771 seconds And Primal residual =  55.1263792  , Dual Residual =  193.628051152
+	 	 At Iteration =  3
+	 	 	 Iteration  3  took time  59.9900000095 seconds And Primal residual =  44.672316511  , Dual Residual =  172.494033839
+	 	 At Iteration =  4
+	 	 	 Iteration  4  took time  60.0610001087 seconds And Primal residual =  36.1231590603  , Dual Residual =  146.469921354
+	 	 At Iteration =  5
+	 	 	 Iteration  5  took time  60.0339999199 seconds And Primal residual =  24.3523000994  , Dual Residual =  105.847994892
+	 	 At Iteration =  6
+	 	 	 Iteration  6  took time  59.8399999142 seconds And Primal residual =  17.4679030638  , Dual Residual =  86.0479701449
+	 	 At Iteration =  7
+	 	 	 Iteration  7  took time  59.8180000782 seconds And Primal residual =  12.6997396665  , Dual Residual =  79.7293787852
+	 	 At Iteration =  8
+	 	 	 Iteration  8  took time  59.8269999027 seconds And Primal residual =  10.3333435881  , Dual Residual =  69.7938834459
+	 	 At Iteration =  9
+	 	 	 Iteration  9  took time  59.8480000496 seconds And Primal residual =  9.20881725715  , Dual Residual =  58.9878484826
+	 	 At Iteration =  10
+	 	 	 Iteration  10  took time  59.7320001125 seconds And Primal residual =  8.18563209285  , Dual Residual =  51.449168506
+	 	 At Iteration =  11
+	 	 	 Iteration  11  took time  59.6499998569 seconds And Primal residual =  7.17466080602  , Dual Residual =  46.5421641953
+	 	 At Iteration =  12
+	 	 	 Iteration  12  took time  59.7440001965 seconds And Primal residual =  6.33184857024  , Dual Residual =  42.2651089368
+	 	 At Iteration =  13
+	 	 	 Iteration  13  took time  59.742000103 seconds And Primal residual =  5.65276531173  , Dual Residual =  38.1003120479
+	 	 At Iteration =  14
+	 	 	 Iteration  14  took time  59.8739998341 seconds And Primal residual =  5.10735911016  , Dual Residual =  34.1542502334
+	 	 At Iteration =  15
+	 	 	 Iteration  15  took time  59.7620000839 seconds And Primal residual =  4.66185845408  , Dual Residual =  30.5599284847
+	 	 At Iteration =  16
+	 	 	 Iteration  16  took time  59.7730000019 seconds And Primal residual =  4.26724067809  , Dual Residual =  27.4953304364
+	 	 At Iteration =  17
+	 	 	 Iteration  17  took time  59.8179998398 seconds And Primal residual =  3.90345142211  , Dual Residual =  24.8915394979
+	 	 At Iteration =  18
+	 	 	 Iteration  18  took time  60.0910000801 seconds And Primal residual =  3.56681593884  , Dual Residual =  22.6155151601
+	 	 At Iteration =  19
+	 	 	 Iteration  19  took time  60.1679999828 seconds And Primal residual =  3.24033343133  , Dual Residual =  20.6926183723
+	 	 At Iteration =  20
+	 	 	 Iteration  20  took time  59.7400000095 seconds And Primal residual =  2.94201410001  , Dual Residual =  19.0049386586
+	 	 At Iteration =  21
+	 	 	 Iteration  21  took time  59.8129999638 seconds And Primal residual =  2.71094221478  , Dual Residual =  17.3587635767
+	 	 At Iteration =  22
+	 	 	 Iteration  22  took time  59.8199999332 seconds And Primal residual =  2.52333482305  , Dual Residual =  15.7322066298
+	 	 At Iteration =  23
+	 	 	 Iteration  23  took time  59.7510001659 seconds And Primal residual =  2.35804286683  , Dual Residual =  14.2481379482
+	 	 At Iteration =  24
+	 	 	 Iteration  24  took time  59.7780001163 seconds And Primal residual =  2.21843684507  , Dual Residual =  12.8407126388
+	 	 At Iteration =  25
+	 	 	 Iteration  25  took time  59.742000103 seconds And 
